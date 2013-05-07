@@ -1,97 +1,97 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <title>Word Segmentation</title>
-  </head>
+</head>
 
-  <body>
-    <div id="container">
-      <div class="inner">
+<body>
+  <div id="container">
+    <div class="inner">
 
-        <header>
-          <h1>Word Segmentation</h1>
-        </header>
+      <header>
+        <h1>Word Segmentation</h1>
+      </header>
 
-        <hr>
+      <hr>
 
-        <section id="intro">
+      <section id="intro">
 
-          <p>How do infants come to identify words in the speech stream? As adults, we break up speech into words with such ease that we often think that there are audible pauses between words in the same sentence. However, unlike some written languages, speech does not have any completely reliable markers for the breaks between words (Cole and Jakimik, 1980). In fact, languages vary on how they signal the ends of words (Cutler and Carter, 1987), which makes the task even more daunting. Adults at least have a lexicon they can use to recognize familiar words, but when an infant is ﬁrst born, they do not have a pre-existing lexicon to consult. In spite of these challenges, by the age of six months infants can begin to segment words out of speech (Bortfeld et al., 2005). The goal of my research is to use evidence from infant language acquisition research to build an efficient unsupervised word segmentation system.</p>
+        <p>How do infants come to identify words in the speech stream? As adults, we break up speech into words with such ease that we often think that there are audible pauses between words in the same sentence. However, unlike some written languages, speech does not have any completely reliable markers for the breaks between words (Cole and Jakimik, 1980). In fact, languages vary on how they signal the ends of words (Cutler and Carter, 1987), which makes the task even more daunting. Adults at least have a lexicon they can use to recognize familiar words, but when an infant is ﬁrst born, they do not have a pre-existing lexicon to consult. In spite of these challenges, by the age of six months infants can begin to segment words out of speech (Bortfeld et al., 2005). The goal of my research is to use evidence from infant language acquisition research to build an efficient unsupervised word segmentation system.</p>
 
-        </section>
-        <section id="phocus">
-          <h3 id='phocus'>PHOCUS</h3>
+      </section>
+      <section id="phocus">
+        <h3 id='phocus'>PHOCUS</h3>
 
-          <p>Since the publication of our JCL article, we have discovered an error in how the phoneme trigram probabilities were calculated. Essentially, only the trigrams probabilities were being multiplied together, whereas the word-initial bigram probability should also have been included to properly follow the <a href='http://en.wikipedia.org/wiki/Chain_rule_(probability'>chain rule</a>). The updated implementation of PHOCUS is available <a href='http://www.eecis.udel.edu/~blanchar/research/phocus-jcl/download_files/phocus-r310.tar.bz2'>here</a>.</p>
-        </section>
-        <section id='publications'>
-          <h3 id='publications'>Publications</h3>
+        <p>Since the publication of our JCL article, we have discovered an error in how the phoneme trigram probabilities were calculated. Essentially, only the trigrams probabilities were being multiplied together, whereas the word-initial bigram probability should also have been included to properly follow the <a href='http://en.wikipedia.org/wiki/Chain_rule_(probability'>chain rule</a>). The updated implementation of PHOCUS is available <a href='http://www.eecis.udel.edu/~blanchar/research/phocus-jcl/download_files/phocus-r310.tar.bz2'>here</a>.</p>
+      </section>
+      <section id='publications'>
+        <h3 id='publications'>Publications</h3>
 
-          <ul>
+        <ul>
           <li>
-          <p>Blanchard, Daniel (2011). <a href='http://www.eecis.udel.edu/~blanchar/research/files/proposal.pdf'>Unsupervised Word Segmentation: An Investigation of Sub-word Features</a>. University of Delaware PhD Thesis Proposal.</p>
+            <p>Blanchard, Daniel (2011). <a href='http://www.eecis.udel.edu/~blanchar/research/files/proposal.pdf'>Unsupervised Word Segmentation: An Investigation of Sub-word Features</a>. University of Delaware PhD Thesis Proposal.</p>
           </li>
 
           <li>
-          <p>Blanchard, Daniel, Jeffrey Heinz, and Roberta Golinkoff (2010). <a href='http://journals.cambridge.org/repo_A76oKjVI'>Modeling the contribution of phonotactic cues to the problem of word segmentation</a>. Journal of Child Language vol. 37 (3) pp. 487-511. _<a href='http://www.eecis.udel.edu/~blanchar/research/phocus-jcl/'>Full results and segmenter code as it was at time of paper submission.</a>_</p>
+            <p>Blanchard, Daniel, Jeffrey Heinz, and Roberta Golinkoff (2010). <a href='http://journals.cambridge.org/repo_A76oKjVI'>Modeling the contribution of phonotactic cues to the problem of word segmentation</a>. Journal of Child Language vol. 37 (3) pp. 487-511. _<a href='http://www.eecis.udel.edu/~blanchar/research/phocus-jcl/'>Full results and segmenter code as it was at time of paper submission.</a>_</p>
           </li>
 
           <li>
-          <p>Blanchard, Daniel and Jeffrey Heinz (2008). <a href='http://www.eecis.udel.edu/~blanchar/research/files/improving-word-segmentation-by-simultaneously-learning-phonotactics.pdf'>Improving Word Segmentation by Simultaneously Learning Phonotactics</a>. CoNLL 2008: Proceedings of the 12th Conference on Computational Natural Language Learning, pp. 65–72. </p>
+            <p>Blanchard, Daniel and Jeffrey Heinz (2008). <a href='http://www.eecis.udel.edu/~blanchar/research/files/improving-word-segmentation-by-simultaneously-learning-phonotactics.pdf'>Improving Word Segmentation by Simultaneously Learning Phonotactics</a>. CoNLL 2008: Proceedings of the 12th Conference on Computational Natural Language Learning, pp. 65–72. </p>
           </li>
 
-          </ul>
-        </section>
-        <section id='related_work'>
-          <h3 id='related_work'>Related Work</h3>
-          <ul>
+        </ul>
+      </section>
+      <section id='related_work'>
+        <h3 id='related_work'>Related Work</h3>
+        <ul>
           <li>
-          <p>Goldwater, Sharon, Thomas Griffiths, and Mark Johnson (2009). <a href='http://homepages.inf.ed.ac.uk/sgwater/papers/cognition-hdp.pdf'>A Bayesian Framework for Word Segmentation: Exploring the Effects of Context.</a> Cognition.</p>
-          </li>
-
-          <li>
-          <p>Fleck, Margaret (2008). <a href='http://www.cs.uiuc.edu/homes/mfleck/my-papers/wordseg-final.pdf'>Lexicalized phonotactic word segmentation.</a> Proceedings of ACL-08: HLT, pp. 130–138.</p>
+            <p>Goldwater, Sharon, Thomas Griffiths, and Mark Johnson (2009). <a href='http://homepages.inf.ed.ac.uk/sgwater/papers/cognition-hdp.pdf'>A Bayesian Framework for Word Segmentation: Exploring the Effects of Context.</a> Cognition.</p>
           </li>
 
           <li>
-          <p>Johnson, Mark (2008). <a href='http://www.aclweb.org/anthology/P/P08/P08-1046.pdf'>Using adaptor grammars to identify synergies in the unsupervised acquisition of linguistic structure.</a> Proceedings of ACL-08: HLT, pp. 398–406.</p>
+            <p>Fleck, Margaret (2008). <a href='http://www.cs.uiuc.edu/homes/mfleck/my-papers/wordseg-final.pdf'>Lexicalized phonotactic word segmentation.</a> Proceedings of ACL-08: HLT, pp. 130–138.</p>
           </li>
 
           <li>
-          <p>Johson, Mark (2008). <a href='http://www.aclweb.org/anthology/W/W08/W08-0704.pdf'>Unsupervised word segmentation for Sesotho using Adaptor Grammars.</a> SIGMORPHON 2008: Proceedings of the Tenth Meeting of the ACL Special Interest Group on Computational Morphology and Phonology, pp. 20–27.</p>
+            <p>Johnson, Mark (2008). <a href='http://www.aclweb.org/anthology/P/P08/P08-1046.pdf'>Using adaptor grammars to identify synergies in the unsupervised acquisition of linguistic structure.</a> Proceedings of ACL-08: HLT, pp. 398–406.</p>
           </li>
 
           <li>
-          <p>Swingley, Daniel (2005). <a href='http://linkinghub.elsevier.com/retrieve/pii/S0010028504000398'>Statistical clustering and the contents of the infant vocabulary.</a> Cognitive Psychology vol. 50 (1) pp. 86–132.</p>
+            <p>Johson, Mark (2008). <a href='http://www.aclweb.org/anthology/W/W08/W08-0704.pdf'>Unsupervised word segmentation for Sesotho using Adaptor Grammars.</a> SIGMORPHON 2008: Proceedings of the Tenth Meeting of the ACL Special Interest Group on Computational Morphology and Phonology, pp. 20–27.</p>
           </li>
 
           <li>
-          <p>Batchelder, Eleanor (2002). <a href='http://linkinghub.elsevier.com/retrieve/pii/S0010027702000021'>Bootstrapping the lexicon: a computational model of infant speech segmentation.</a>Cognition vol. 83 (2) pp. 167–206.</p>
+            <p>Swingley, Daniel (2005). <a href='http://linkinghub.elsevier.com/retrieve/pii/S0010028504000398'>Statistical clustering and the contents of the infant vocabulary.</a> Cognitive Psychology vol. 50 (1) pp. 86–132.</p>
           </li>
 
           <li>
-          <p>Venkataraman, Anand (2001). <a href='http://portal.acm.org/citation.cfm?id=972657'>A statistical model for word discovery in transcribed speech.</a> Computational Linguistics vol. 27 (3) pp. 352–372.</p>
+            <p>Batchelder, Eleanor (2002). <a href='http://linkinghub.elsevier.com/retrieve/pii/S0010027702000021'>Bootstrapping the lexicon: a computational model of infant speech segmentation.</a>Cognition vol. 83 (2) pp. 167–206.</p>
           </li>
 
           <li>
-          <p>Brent, Michael (1999). <a href='http://www.springerlink.com/content/g840p555100429vj/fulltext.pdf'>An Efficient, Probabilistically Sound Algorithm for Segmentation and Word Discovery.</a>Machine Learning vol. 34 pp. 71–105.</p>
+            <p>Venkataraman, Anand (2001). <a href='http://portal.acm.org/citation.cfm?id=972657'>A statistical model for word discovery in transcribed speech.</a> Computational Linguistics vol. 27 (3) pp. 352–372.</p>
           </li>
-          </ul>
-        </section>
 
-        <footer>
-          Tactile theme by <a href="http://twitter.com/jasonlong">Jason Long</a>.
-        </footer>
-      </div>
+          <li>
+            <p>Brent, Michael (1999). <a href='http://www.springerlink.com/content/g840p555100429vj/fulltext.pdf'>An Efficient, Probabilistically Sound Algorithm for Segmentation and Word Discovery.</a>Machine Learning vol. 34 pp. 71–105.</p>
+          </li>
+        </ul>
+      </section>
+
+      <footer>
+        Tactile theme by <a href="http://twitter.com/jasonlong">Jason Long</a>.
+      </footer>
     </div>
-  </body>
+  </div>
+</body>
 </html>
