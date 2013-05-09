@@ -1,0 +1,55 @@
+
+
+Results for other-segmenters/br-goldwater-bigrams.txt:
+(ignoring first 1000 utterances)
+============================
+
+Found Words
+-----------
+Over-segmented section of a true word: 4149 (14.44%)
+Contained multiple whole true words: 3304 (11.50%)
+Contained partial true words: 509 (1.77%)
+
+Over-segmented vowel from a true word: 258 (0.90%)
+Over-segmented affixes from true words: 800 (2.78%)
+Contained an under-segmented determiner: 489 (1.70%)
+Contained an under-segmented collocation: 2917 (10.15%)
+
+Total: 28730
+
+
+True Words
+----------
+Found just over-segmented: 1711 (5.67%)
+Found just under-segmented: 7171 (23.77%)
+Found both over- and under-segmented: 517 (1.71%)
+
+Found with over-segmented vowels: 258 (0.86%)
+Found with over-segmented affixes: 780 (2.59%)
+Determiners that were found under-segmented: 489 (1.62%)
+
+Total: 30167
+
+
+Word Stats
+----------
+Correct (true pos.): 20768
+Incorrect found words (false pos.): 7962
+Missing true words (false neg.): 9399
+Precision: 72.29%
+Recall: 68.84%
+F: 70.52%
+
+
+Boundary Stats
+--------------
+Precision: 87.76%
+Recall: 81.86%
+F: 84.71%
+
+
+Lexicon Stats
+-------------
+Precision: 60.80%
+Recall: 51.46%
+F: 55.75%

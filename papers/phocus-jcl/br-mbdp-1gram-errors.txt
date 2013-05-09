@@ -1,0 +1,2588 @@
+
+
+Results for jcl-postbugfix/br-mbdp-unigram-type.txt:
+(ignoring first 1000 utterances)
+============================
+
+Found Words
+-----------
+Over-segmented section of a true word: 10738 (31.95%)
+Contained multiple whole true words: 1438 (4.28%)
+Contained partial true words: 1180 (3.51%)
+
+Over-segmented vowel from a true word: 622 (1.85%)
+Over-segmented affixes from true words: 2651 (7.89%)
+Contained an under-segmented determiner: 880 (2.62%)
+Contained an under-segmented collocation: 1644 (4.89%)
+
+Total: 33604
+
+
+True Words
+----------
+Found just over-segmented: 4433 (14.69%)
+Found just under-segmented: 4222 (14.00%)
+Found both over- and under-segmented: 1264 (4.19%)
+
+Found with over-segmented vowels: 614 (2.04%)
+Found with over-segmented affixes: 2508 (8.31%)
+Determiners that were found under-segmented: 817 (2.71%)
+
+Total: 30167
+
+
+Word Stats
+----------
+Correct (true pos.): 20248
+Incorrect found words (false pos.): 13356
+Missing true words (false neg.): 9919
+Precision: 60.25%
+Recall: 67.12%
+F: 63.50%
+
+
+Boundary Stats
+--------------
+Precision: 74.26%
+Recall: 86.20%
+F: 79.79%
+
+
+Lexicon Stats
+-------------
+Precision: 54.46%
+Recall: 44.97%
+F: 49.26%
+
+Undersegmented words
+------------------
+&ftR:
+	&ftRo	2
+&n:
+	k&n	1
+&nd:
+	&nd6dOgi	1
+&nt:
+	&ntG&ki	1
+	eIzfOr&nt	1
+&t:
+	&tD6bUk	8
+	&tIt	2
+	lUk&tDIs	40
+&z:
+	&zInvIni	1
+	&zsun&z	2
+	n&zInvi	1
+	s&z	1
+	s&zfar&z	4
+6:
+	&nd6dOgi	1
+	6Eff	1
+	6b&T	3
+	6b6lun	3
+	6bIb	1
+	6bIgtAN	2
+	6bOI	15
+	6bOl	5
+	6bRd	12
+	6batM	1
+	6bo	1
+	6brAS	9
+	6brIG	4
+	6d9IpR	2
+	6dAk	12
+	6dOg	12
+	6dOgi	17
+	6dal	6
+	6dali	2
+	6dezi	1
+	6drAm	2
+	6f9IREnG~	1
+	6fRi	1
+	6fl9UR	4
+	6frEndli	2
+	6k	20
+	6kEr6t	1
+	6kIs	1
+	6kIti	14
+	6lAnc	1
+	6lEm~	1
+	6lItLb	3
+	6lali	1
+	6lat	9
+	6m	4
+	6m9Us	12
+	6n	3
+	6n9IsdOgi	1
+	6p	6
+	6pApi	3
+	6pakItfUl6vpoziz	1
+	6pi	2
+	6pic	1
+	6pinAtbAtR	1
+	6pis	4
+	6r&b	6
+	6rEkRd	1
+	6rIb~	2
+	6rakR	1
+	6rustR	1
+	6sEk	1
+	6sIli	4
+	6sON	2
+	6sn&p	3
+	6stOri	1
+	6str&p	1
+	6strObEri	1
+	6t9UR	14
+	6tOI	10
+	6trANk	1
+	6trAk	4
+	6v	4
+	6w	3
+	6zIpR	10
+	DIsIz6	20
+	In6cEr	3
+	Its6bAni	1
+	bi6pis	1
+	fOr6	14
+	h&d6gret	1
+	m6f6roS6s	1
+	onli6p	2
+	rid6	9
+	s6	122
+	s6h	12
+	s6kIti	3
+	s6m	2
+	s6prIti	2
+	s6tRtL	4
+	t6v6rEd	1
+	wR6	1
+	wet6sEk~d	1
+	z6	18
+	z6pApIt	1
+	zh&d6	1
+	znat6	1
+6b9Ut:
+	6b9UtD6	8
+6hEd:
+	go6hEd	19
+6n:
+	6ne	3
+6t&ct:
+	6t&cttuhRir	1
+6v:
+	6pakItfUl6vpoziz	1
+	t6v6rEd	1
+	t6vfrAstret	1
+6we:
+	pUtIt6we	1
+9I:
+	9IbEt	5
+	9IdId~tTINkItwUd	1
+9Il:
+	9IlpUt	3
+9Im:
+	9ImsOri	2
+9Ut:
+	pUlIt9Ut	2
+	tekD6dOgi9Ut	2
+	tekIt9Ut	4
+ANkL:
+	ANkLm9Iktold	1
+Any~:
+	oIzfOrAny~	1
+AnzIp:
+	AnzIpD6p&nts	1
+Ap:
+	kAp	1
+	kAvRdApb	1
+	kl9ImAp	1
+	op~ItAp	1
+	sItAp	4
+As:
+	tAmbLfOrAs	1
+D&n:
+	bEtRD&n	2
+D&t:
+	WAtsD&t	221
+D6:
+	&tD6bUk	8
+	6b9UtD6	8
+	AnzIpD6p&nts	1
+	anD6	70
+	dIgD6dRt	1
+	fOrD6dOgi	4
+	gEtD6	8
+	l9IkD6	20
+	r&ND6bEl	1
+	rdrAmInD6p6red	1
+	sInD6h9Us	1
+	tOkanD6fon	1
+	tekD6dOgi9Ut	2
+	tuD6dOgi	3
+	zD6bebi	3
+DEr:
+	DEryugo	17
+DIs:
+	DIs6	1
+	DIsIz6	20
+	WAtsDIs	130
+	duwITDIs	1
+	lUk&tDIs	40
+De:
+	DefEl	1
+Ef:
+	6Eff	1
+El:
+	ElEm	1
+	ElIzfOrlEm~	1
+	nEl	2
+El6f6nt:
+	nEl6f6nt	5
+Em:
+	ElEm	1
+EnG~:
+	6f9IREnG~	1
+Eni:
+	ntEnim	3
+G&ki:
+	&ntG&ki	1
+GElo:
+	GElos	1
+Gudi:
+	sGudi	1
+If:
+	Ifwi	6
+In:
+	&zInvIni	1
+	In6cEr	3
+	b&kIn	15
+	bAbLzInhIzb&T	1
+	n&zInvi	1
+	pUtItIn	8
+	rdrAmInD6p6red	1
+	rfINgRIn	9
+	sIn	26
+	sInD6h9Us	1
+	swImInhRlek	1
+InAf:
+	l9UdInAf	1
+It:
+	&tIt	2
+	9IdId~tTINkItwUd	1
+	WAtIzIt	42
+	WAtsIt	3
+	WErdIdItgo	5
+	fidIt	1
+	gEtIt	17
+	op~ItAp	1
+	pUlIt9Ut	2
+	pUtIt6we	1
+	pUtItIn	12
+	t9IIt	5
+	tekIt9Ut	4
+	tr9IIt	5
+Its:
+	Its6bAni	1
+Iz:
+	DIsIz6	20
+	ElIzfOrlEm~	1
+	WAtIzIt	42
+	eIzfOr&nt	1
+	oIzfOrAny~	1
+Og6st:
+	Og6stfRst	1
+Ol:
+	Olr9	70
+	sOl	19
+SL:
+	SLwifInIS	1
+SOrt:
+	irzkAtSOrt	1
+SRt:
+	hIzSRt	2
+Sev:
+	SevhI	1
+TAm:
+	rTAm	3
+TINk:
+	9IdId~tTINkItwUd	1
+WAt:
+	WAtIzIt	42
+	WAtaryug6n6du	8
+WAts:
+	WAtsD&t	221
+	WAtsDIs	130
+	WAtsIt	3
+WEr:
+	WErdIdItgo	5
+WErz:
+	WErzD	54
+an:
+	anD6	70
+	kAman	8
+	tOkanD6fon	1
+ar:
+	WAtaryug6n6du	8
+	h9Uaryu	11
+b&T:
+	6b&T	3
+	bAbLzInhIzb&T	1
+b&k:
+	b&kIn	15
+	hIzb&k	2
+b6lun:
+	6b6lun	4
+b9I:
+	b9Ib	52
+	gUdb9I	14
+bAbLz:
+	bAbLzInhIzb&T	1
+bAni:
+	Its6bAni	1
+bAtR:
+	6pinAtbAtR	1
+bEd:
+	zbEd	4
+bEdrum:
+	rbEdrum	1
+bEdsprEd:
+	rbEdsprEd	1
+bEl:
+	r&ND6bEl	1
+bEt:
+	9IbEt	5
+bEtR:
+	bEtRD&n	2
+bIb:
+	6bIb	1
+	rEdbIb	1
+bIg:
+	6bIgtAN	2
+	bIgf	1
+bItwin:
+	t9ImbItwin	1
+bOI:
+	6bOI	40
+bOl:
+	6bOl	11
+bRTde:
+	rbRTde	6
+bRd:
+	6bRd	10
+bUk:
+	&tD6bUk	7
+batM:
+	6batM	2
+bebi:
+	zD6bebi	3
+bi:
+	bi6pis	1
+	debi	1
+	ebi	10
+	m9ItbiiziR	1
+	mAstbik&c	1
+	pas6blibi	1
+bo:
+	6bo	1
+brAS:
+	6brAS	10
+	brASD	1
+	brASyurhEr	4
+brEkf6st:
+	rbrEkf6st	2
+brIG:
+	6brIG	4
+c9Ild:
+	lItLc9Ild	1
+cEr:
+	In6cEr	3
+cIkiz:
+	cIkizdAki	1
+cenG:
+	cenGhIzd9IpRz	1
+ciks:
+	rciks	2
+d&d:
+	Id&d	1
+d&diz:
+	d&diznat	1
+d&n:
+	d&pRd&n	3
+d&pR:
+	d&pRd&n	4
+d9IpR:
+	6d9IpR	2
+d9IpRz:
+	cenGhIzd9IpRz	1
+d9Un:
+	fOld9Un	7
+	sItd9Un	18
+dAk:
+	6dAk	15
+dAmpti:
+	hAmptidAmpti	14
+dAn:
+	rdAn	6
+dId:
+	WErdIdItgo	5
+dId~t:
+	9IdId~tTINkItwUd	1
+dIg:
+	dIgD6dRt	1
+dIlIS6s:
+	sdIlIS6s	1
+dOg:
+	6dOg	53
+	dOgh9Us	4
+dOgi:
+	6dOgi	37
+	6n9IsdOgi	1
+	fOrD6dOgi	3
+	tekD6dOgi9Ut	2
+	tuD6dOgi	3
+dRt:
+	dIgD6dRt	1
+dal:
+	6dal	9
+dali:
+	6dali	3
+denGR6s:
+	sdenGR6s	2
+dezi:
+	6dezi	1
+dont:
+	yudontno	2
+drAm:
+	6drAm	2
+	f&nsidrAm	1
+	rdrAmInD6p6red	1
+drAmz:
+	rdrAmz	1
+drEs:
+	rdrEs	1
+du:
+	WAtaryug6n6du	8
+	duwITDIs	1
+	duyuse	3
+e:
+	6ne	3
+	debi	1
+	eIzfOr&nt	1
+	ebi	10
+f&nsi:
+	f&nsidrAm	1
+f6roS6s:
+	m6f6roS6s	1
+f9IR:
+	6f9IREnG~	1
+fAni:
+	zfAni	3
+fEl:
+	DefEl	1
+	sfEl	1
+fINgR:
+	rfINgR	10
+	rfINgRIn	9
+fINgRz:
+	rfINgRz	1
+fInIS:
+	SLwifInIS	1
+fOl:
+	fOld9Un	7
+fOr:
+	ElIzfOrlEm~	1
+	eIzfOr&nt	1
+	fOr6	17
+	fOrD6dOgi	4
+	fOrhI	1
+	fudfOrletR	1
+	oIzfOrAny~	1
+	tAmbLfOrAs	1
+fRi:
+	6fRi	1
+fRst:
+	Og6stfRst	1
+fUl:
+	6pakItfUl6vpoziz	1
+	pakItfUl	1
+far:
+	far6	1
+	s&zfar&z	2
+fes:
+	zfes	10
+fid:
+	fidIt	1
+fl9UR:
+	6fl9UR	5
+fon:
+	tOkanD6fon	1
+frEnd:
+	frEndpitR	1
+frEndli:
+	6frEndli	2
+frEndz:
+	rfrEndzp	1
+fud:
+	fudfOrletR	1
+g6n6:
+	WAtaryug6n6du	8
+gEt:
+	gEtD6	8
+	gEtIt	17
+	gEthIm	5
+gUd:
+	gUdb9I	14
+gel:
+	sgel	1
+go:
+	DEryugo	17
+	WErdIdItgo	5
+	go6hEd	19
+	wigo	16
+gret:
+	h&d6gret	1
+	sgret	1
+h&d:
+	h&d6gret	1
+	zh&d6	1
+h&v:
+	wonth&v	1
+h9U:
+	h9Uaryu	11
+	h9UsIli	1
+	h9UsOft	1
+	lAvh9U	1
+	sih9U	3
+h9Us:
+	dOgh9Us	4
+	sInD6h9Us	1
+hAmpti:
+	hAmptidAmpti	15
+hEd:
+	rhEd	2
+hElo:
+	sehElo	19
+hEr:
+	brASyurhEr	4
+	zhEr	40
+hIm:
+	gEthIm	5
+hIz:
+	bAbLzInhIzb&T	1
+	cenGhIzd9IpRz	1
+	hIzSRt	2
+	hIzb&k	2
+	hIzh	34
+	hIznem	3
+	hIztAN	18
+hR:
+	6t&cttuhRir	1
+	hRh	3
+	shRnem	2
+	swImInhRlek	1
+hapskac:
+	hapskachapskac	2
+hi:
+	hil	1
+ir:
+	6t&cttuhRir	1
+irz:
+	irzkAtSOrt	1
+itIN:
+	itINpart	1
+it~:
+	vit~	1
+iziR:
+	m9ItbiiziR	1
+k&c:
+	mamk&c	1
+k&n:
+	k&nyu	208
+k&pt~:
+	k&pt~krUnc	1
+kAm:
+	kAman	8
+kAt:
+	irzkAtSOrt	1
+kAvRd:
+	kAvRdApb	1
+kEr6t:
+	6kEr6t	1
+kIs:
+	6kIs	1
+	6n9IskIs	1
+kIti:
+	6kIti	15
+	s6kIti	3
+ke:
+	kef	1
+keks:
+	ntkeks	1
+kl9Im:
+	kl9ImAp	1
+klak:
+	klaktIks	1
+klinR:
+	mklinR	2
+kom:
+	rkom	2
+krUnc:
+	k&pt~krUnc	1
+krim:
+	skrim	4
+l9Ik:
+	l9IkD6	20
+l9Ud:
+	l9UdInAf	1
+lAnc:
+	6lAnc	1
+lAv:
+	lAvh9U	1
+lAvli:
+	slAvli	1
+lEm~:
+	6lEm~	1
+	ElIzfOrlEm~	1
+lEts:
+	lEtssi	27
+lIkwId:
+	slIkwId	1
+lItL:
+	6lItLb	3
+	lItLc9Ild	1
+lOst:
+	lOstm	1
+lUk:
+	lUk&tDIs	40
+lat:
+	6lat	9
+lek:
+	swImInhRlek	1
+letR:
+	fudfOrletR	1
+m&GIk:
+	pitRm&GIk	1
+	sm&GIk	1
+m&s:
+	m&sp	1
+m9I:
+	m9Ih	9
+	m9Inem	4
+	m9ItAN	2
+m9Ik:
+	ANkLm9Iktold	1
+m9It:
+	m9ItbiiziR	1
+	m9ItrIp	1
+m9Us:
+	6m9Us	14
+mAst:
+	mAstbik&c	1
+mIki:
+	mIkim	1
+mIt~:
+	rmIt~	1
+mam:
+	mamk&c	1
+	mamwIlbr	1
+mi:
+	tElmi	16
+n9Is:
+	6n9IsdOgi	1
+	6n9IskIs	1
+n9It:
+	n9Itn9	30
+n9U:
+	oken9U	3
+nEvR:
+	nEvRf	1
+	vnEvRsin	1
+nat:
+	d&diznat	1
+	snat	52
+	znat6	1
+nem:
+	hIznem	3
+	m9Inem	4
+	shRnem	2
+ni:
+	zni	2
+no:
+	yudontno	2
+o:
+	&ftRo	2
+	oIzfOrAny~	1
+oke:
+	oken9U	3
+old:
+	oldvRGIny6	1
+	rpurold	1
+on:
+	ron	1
+onli:
+	onli6p	2
+op~:
+	op~ItAp	1
+p&nts:
+	AnzIpD6p&nts	1
+p6red:
+	rdrAmInD6p6red	1
+pApIt:
+	z6pApIt	1
+pApi:
+	6pApi	3
+pEnsL:
+	rpEnsL	1
+pEr6t:
+	pEr6tstarts	1
+pRpL:
+	spRpL	2
+pUl:
+	pUlIt9Ut	2
+pUt:
+	9IlpUt	3
+	pUtD	28
+	pUtIt6we	1
+	pUtItIn	12
+pakIt:
+	6pakItfUl6vpoziz	1
+	pakItfUl	1
+part:
+	itINpart	1
+pas6bli:
+	pas6blibi	1
+pi:
+	6pi	2
+pic:
+	6pic	1
+pinAt:
+	6pinAtbAtR	1
+pis:
+	6pis	4
+	bi6pis	1
+pitR:
+	frEndpitR	1
+	pitRm&GIk	1
+poziz:
+	6pakItfUl6vpoziz	1
+prIti:
+	s6prIti	2
+pur:
+	rpurold	1
+r&DR:
+	dr&DR	2
+r&N:
+	r&ND6bEl	1
+r9It:
+	sr9It	60
+rAf:
+	srAf	1
+rEd:
+	rEdbIb	1
+	t6v6rEd	1
+rEkRd:
+	6rEkRd	2
+rIb~:
+	6rIb~	2
+rIp:
+	m9ItrIp	1
+rIst:
+	rrIst	1
+rakR:
+	6rakR	1
+rid:
+	rid6	9
+ril:
+	rilh	1
+rustR:
+	6rustR	1
+sEk:
+	6sEk	1
+sEk~d:
+	wet6sEk~d	1
+sIli:
+	6sIli	4
+	h9UsIli	1
+	rsIli	4
+sIt:
+	sItAp	4
+	sItd9Un	18
+sON:
+	6sON	2
+sOft:
+	h9UsOft	1
+sOri:
+	9ImsOri	2
+se:
+	duyuse	3
+	sehElo	19
+si:
+	lEtssi	27
+	sih9U	3
+sin:
+	vnEvRsin	1
+	vsin	1
+skr&ci:
+	zskr&ci	13
+slip:
+	wEnttuslip	1
+smart:
+	lismart	1
+sn&p:
+	6sn&p	10
+spik:
+	tuspiktu	1
+stIl:
+	zstIl	4
+stOri:
+	6stOri	1
+starts:
+	pEr6tstarts	1
+ste:
+	stekloz	1
+str&p:
+	6str&p	1
+strONR:
+	~strONR	1
+strObEri:
+	6strObEri	1
+strolR:
+	rstrolR	1
+suci:
+	ssuci	1
+sun:
+	&zsun&z	1
+swEtR:
+	rswEtR	2
+swIm:
+	swImInhRlek	1
+t9I:
+	t9IIt	5
+t9Im:
+	t9ImbItwin	1
+t9UR:
+	6t9UR	14
+tAN:
+	6bIgtAN	2
+	hIztAN	17
+	m9ItAN	2
+	rtAN	3
+	stAN	1
+tAmbL:
+	tAmbLfOrAs	1
+tEl:
+	ltEl	1
+	tElmi	16
+tIks:
+	klaktIks	1
+tOI:
+	6tOI	10
+tOk:
+	tOkanD6fon	1
+tRtL:
+	s6tRtL	4
+tUk:
+	tUkm	1
+tek:
+	tekD6dOgi9Ut	2
+	tekIt9Ut	4
+tep:
+	Rtep	1
+	tepf	1
+tiT:
+	ztiT	1
+to:
+	rto	1
+told:
+	ANkLm9Iktold	1
+tr9I:
+	tr9IIt	5
+trANk:
+	6trANk	1
+trAk:
+	6trAk	5
+tu:
+	6t&cttuhRir	1
+	tuD6dOgi	3
+	tuspiktu	2
+	wEnttuslip	1
+vIni:
+	&zInvIni	1
+vRGIny6:
+	oldvRGIny6	1
+vi:
+	n&zInvi	1
+wEnt:
+	wEnttuslip	1
+wIT:
+	duwITDIs	1
+wIl:
+	mamwIlbr	1
+wR:
+	wR6	1
+wUd:
+	9IdId~tTINkItwUd	1
+wet:
+	wet6sEk~d	1
+wi:
+	Ifwi	6
+	SLwifInIS	1
+	wigo	16
+wont:
+	wonth&v	1
+wuwu:
+	wuwum	1
+yu:
+	DEryugo	17
+	WAtaryug6n6du	8
+	duyuse	3
+	h9Uaryu	11
+	k&nyu	207
+	yudontno	2
+yur:
+	brASyurhEr	4
+zIp:
+	zIpD	2
+zIpR:
+	6zIpR	19
+
+Oversegmented words
+------------------
+&lIgetRz:
+	&lIgetR z	2
+&lf6bEt:
+	&lf6 bEt	2
+&n6mLz:
+	&n6mL z	2
+&ndi:
+	&nd i	2
+&niz:
+	&ni z	4
+6l9Iv:
+	6 l 9I v	4
+6larm:
+	6 l ar m	1
+6mily6:
+	6m ily6	14
+6nADR:
+	6n ADR	84
+6part:
+	6 part	1
+6we:
+	6 we	11
+9IRn:
+	9I Rn	3
+9Id:
+	9I d	3
+9Il:
+	9I l	28
+9Im:
+	9I m	80
+9Is:
+	9I s	1
+9Iv:
+	9I v	4
+9Iz:
+	9I z	17
+9ULz:
+	9UL z	1
+9UtlEts:
+	9Ut lEts	1
+9Uts9Id:
+	9Ut s 9I d	3
+ADRz:
+	ADR z	1
+AnbAt~:
+	An bAt~	1
+AndR:
+	An dR	2
+AndRst&nd:
+	AndRst &nd	2
+Andu:
+	An du	4
+Anlak:
+	An lak	1
+Ansn&p:
+	An sn&p	1
+AnzIpt:
+	AnzIp t	3
+Aps9Id:
+	Ap s 9I d	5
+D&ts:
+	D&t s	180
+DErz:
+	DEr z	74
+Dev:
+	De v	1
+Doz:
+	Do z	130
+Em9Iti:
+	Em 9I ti	1
+End:
+	E nd	1
+EniTIN:
+	Eni TIN	4
+EniWEr:
+	Eni WEr	1
+Enibadi:
+	Eni badi	3
+Erplen:
+	Er ple n	3
+EvriTIN:
+	Evri TIN	2
+G&kIt:
+	G&k It	1
+GAmpIN:
+	GAmp IN	5
+GAmpt:
+	GAmp t	1
+GEf:
+	GE f	1
+GEfri:
+	GE fri	1
+GEfriz:
+	GE fri z	1
+GElo:
+	GE lo	3
+GEnR6s:
+	GE nR6s	2
+GEntL:
+	GE ntL	4
+GEsi:
+	GE si	5
+Gar:
+	G ar	2
+Gek:
+	Ge k	1
+Ginz:
+	Gi n z	2
+Gudiz:
+	Gudi z	8
+InAf:
+	In Af	4
+Indi~:
+	In di ~	2
+Ins9Id:
+	In s 9I d	14
+InstEd:
+	In st Ed	1
+Intr6stId:
+	In tr6st Id	2
+Intu:
+	In tu	3
+ItL:
+	It L	1
+Its:
+	It s	122
+Iz6bL:
+	Iz 6bL	1
+Iz~t:
+	Iz ~t	16
+OfIs:
+	Of Is	2
+Of~:
+	Of ~	1
+Olmost:
+	Ol most	3
+Olr9It:
+	Olr9 It	1
+OlrEdi:
+	Ol rEdi	3
+Olwez:
+	Ol we z	1
+OrInG:
+	Or In G	15
+SRt:
+	SR t	1
+SevIN:
+	Sev IN	2
+Sid:
+	Si d	1
+Sip:
+	Si p	2
+Siz:
+	Si z	14
+SoIN:
+	So IN	1
+SoldRz:
+	So ldRz	2
+SulesIz:
+	Su les Iz	5
+TINz:
+	TIN z	20
+Triz:
+	Tri z	1
+TroIN:
+	Tro IN	2
+Tron:
+	Tro n	1
+Trot:
+	Tro t	1
+W9I:
+	W 9I	16
+W9Il:
+	W 9I l	2
+W9It:
+	W9 It	1
+WAtEvR:
+	WAt EvR	4
+WAts:
+	WAt s	125
+WErd:
+	WEr d	3
+WErz:
+	WEr z	39
+Wilz:
+	Wil z	1
+antu:
+	an tu	1
+arm:
+	ar m	2
+armz:
+	ar m z	2
+arnt:
+	ar nt	11
+b&Nk:
+	b&N k	1
+b&TtAb:
+	b&T tAb	1
+b&gz:
+	b&g z	1
+b&t:
+	b &t	1
+b6loni:
+	b 6lon i	2
+b6lunz:
+	b6lun z	21
+b6n&n6z:
+	b 6 n&n 6 z	2
+b9I:
+	b 9I	18
+b9It:
+	b9 It	18
+bAbLz:
+	bAbL z	2
+bAniz:
+	bAni z	14
+bAtRfl9I:
+	bAtRfl 9I	18
+bAtRfl9Iz:
+	bAtRfl 9I z	12
+bAt~z:
+	bAt~ z	11
+bEd:
+	b Ed	2
+bIfOr:
+	b If Or	8
+bIgInIN:
+	bIg In IN	4
+bIgInz:
+	bIg In z	1
+bIgR:
+	bIg R	2
+bIh9Ind:
+	bI h9I nd	1
+bIlON:
+	bI lON	1
+bIldIN:
+	bIld IN	2
+bIldINz:
+	bIld IN z	1
+bIn:
+	b In	1
+bIs9Idz:
+	bI s 9I d z	1
+bIts:
+	b It s	1
+bOIz:
+	bOI z	3
+bOl:
+	b Ol	3
+bOlz:
+	b Ol z	5
+bRdi:
+	bRd i	1
+bRdiz:
+	bRd i z	3
+bRdz:
+	bRd z	4
+bUks:
+	bUk s	19
+bark:
+	b ar k	1
+barks:
+	b ar ks	1
+bebiz:
+	bebi z	9
+besbOl:
+	besb Ol	1
+binz:
+	bin z	4
+bird:
+	bi r d	2
+blaks:
+	blak s	64
+blo:
+	b lo	2
+bonz:
+	bon z	1
+brASIN:
+	brAS IN	4
+brIN:
+	b r IN	12
+byut6fL:
+	b yu t6fL	3
+cErz:
+	cEr z	16
+cIkiz:
+	cIki z	2
+cIk~z:
+	cIk~ z	1
+cenGd:
+	cenG d	1
+cirioz:
+	cirio z	2
+ciz:
+	ci z	5
+d&d&z:
+	d&d& z	2
+d&diz:
+	d&di z	7
+d9IL:
+	d 9I L	1
+d9IpR:
+	d 9I p R	1
+d9IpRz:
+	d 9I p Rz	1
+dAbLyu:
+	dAbL yu	1
+dAkiz:
+	dAk i z	5
+dAn:
+	d An	8
+dAz~t:
+	dAz ~t	38
+dId~t:
+	dId ~t	19
+dIfr~s:
+	dIfr ~s	1
+dIfr~t:
+	dIfr ~t	3
+dInR:
+	d In R	10
+dInRt9Im:
+	d In R t9Im	1
+dIzRt:
+	d Iz Rt	1
+dOgiz:
+	dOgi z	23
+dOr:
+	d Or	96
+dOrz:
+	d Or z	1
+dRti:
+	dR ti	1
+daliz:
+	dali z	5
+dalz:
+	dal z	2
+danLd:
+	d an Ld	2
+det:
+	d et	1
+dez:
+	de z	1
+dir:
+	di r	10
+dr&g~z:
+	dr&g~ z	6
+dr9Iv:
+	d r 9I v	1
+drEs:
+	d r Es	1
+drEst:
+	d rEst	4
+drINkIN:
+	drINk IN	1
+duIN:
+	du IN	94
+f&n:
+	f &n	1
+f9IR:
+	f 9I R	1
+f9In:
+	f9 In	1
+f9Ind:
+	f 9I nd	27
+f9IndIN:
+	f 9I nd IN	2
+f9Iv:
+	f 9I v	17
+fAn:
+	f An	17
+fINgR:
+	f IN gR	8
+fINgRz:
+	f IN gR z	1
+fISIN:
+	fIS IN	3
+fIkst:
+	fIks t	1
+fInISt:
+	f In ISt	1
+fIt:
+	f It	4
+fItsp&trIks:
+	f It s p&trIk s	1
+fOlIN:
+	fOl IN	1
+fOr:
+	f Or	169
+fRgEt:
+	fR gEt	2
+fRst:
+	fR st	10
+fUts:
+	fUt s	1
+far:
+	f ar	4
+fevrIt:
+	fevr It	2
+fidIN:
+	fid IN	1
+filIN:
+	fil IN	1
+filz:
+	fil z	3
+fit:
+	f it	5
+fl9I:
+	fl 9I	1
+fl9IIN:
+	fl 9I IN	1
+flOr:
+	fl Or	6
+fonz:
+	fon z	2
+frEnd:
+	f r End	5
+frEndli:
+	f r End li	1
+frEndz:
+	f r End z	2
+g9I:
+	g 9I	5
+gEtIN:
+	gEt IN	11
+gEts:
+	gEt s	1
+gRlz:
+	gRl z	2
+gUdnIs:
+	gUd nIs	6
+gat~:
+	gat ~	1
+gelz:
+	gel z	2
+goz:
+	go z	33
+gr&b:
+	g r&b	2
+gr&mi:
+	gr& mi	9
+gr&mps:
+	gr& m p s	1
+gr&nmaz:
+	gr&nma z	1
+h&NIN:
+	h&N IN	1
+h&m:
+	h &m	1
+h&nd:
+	h &nd	2
+h&ndz:
+	h &nd z	5
+h&p~z:
+	h&p~ z	1
+h&t:
+	h &t	2
+h&vIN:
+	h&v IN	7
+h&v~t:
+	h&v ~t	5
+h9IR:
+	h9I R	4
+h9IcEr:
+	h9I cEr	1
+h9IdIN:
+	h9I d IN	7
+h9Us:
+	h 9Us	20
+	h9U s	37
+h9Uz:
+	h9U z	3
+hANgriR:
+	hANgri R	1
+hAg:
+	h Ag	2
+hAgi:
+	h Ag i	1
+hEr:
+	h Er	10
+hErbrAS:
+	h Er brAS	1
+hEvi:
+	h Evi	2
+hImsElf:
+	hIm sElf	1
+hIz:
+	h Iz	96
+hOrs:
+	h Or s	6
+hOrsi:
+	h Or si	5
+hOrsiz:
+	h Or si z	1
+hRd:
+	hR d	1
+hRt:
+	hR t	3
+hRtIN:
+	hR t IN	1
+hard:
+	h ar d	6
+hardR:
+	h ar dR	1
+hart:
+	h ar t	1
+hirz:
+	hir z	53
+holdIN:
+	hold IN	3
+holdz:
+	hold z	1
+hum:
+	hu m	2
+irfonz:
+	ir fon z	1
+irz:
+	ir z	9
+itIN:
+	it IN	28
+ivnIN:
+	ivn IN	1
+k&nt:
+	k&n t	19
+k&t:
+	k &t	16
+k6d~t:
+	k6d ~t	1
+k9Ind:
+	k 9I nd	23
+k9Indz:
+	k 9I nd z	1
+k9It:
+	k9 It	4
+k9Uz:
+	k9U z	4
+kAlRz:
+	kAlR z	24
+kAmIN:
+	kAm IN	8
+kAmz:
+	kAm z	9
+kAps:
+	kAp s	8
+kIsIN:
+	kIs IN	1
+kIsIz:
+	kIs Iz	3
+kItiz:
+	kIti z	21
+kIt~z:
+	kIt~ z	4
+kOf:
+	k Of	1
+kOlIN:
+	kOl IN	10
+kOld:
+	kOl d	15
+kOlz:
+	kOl z	1
+kOrs:
+	k Or s	1
+kar:
+	k ar	13
+keG:
+	k eG	10
+	ke G	10
+kek:
+	ke k	2
+kevz:
+	ke v z	1
+kez:
+	ke z	6
+kip:
+	ki p	8
+kiz:
+	ki z	9
+klozd:
+	kloz d	10
+komIN:
+	kom IN	2
+kr9IIN:
+	kr 9I IN	4
+krIst6fR:
+	krIst6 fR	1
+krak6d9Il:
+	kra k6d 9I l	2
+krean:
+	kre an	5
+kreanz:
+	kre an z	16
+kren:
+	kre n	1
+kw9IIt:
+	kw 9I It	2
+kw9It:
+	kw9 It	1
+kwIkli:
+	kwIk li	3
+kwIlts:
+	k wIl t s	1
+kyu:
+	k yu	4
+kyut:
+	k yu t	1
+kyuti:
+	k yu ti	1
+l9IIN:
+	l 9I IN	1
+l9Iks:
+	l9Ik s	5
+l9Ikt:
+	l9Ik t	1
+l9In:
+	l9 In	1
+l9I~z:
+	l9I~ z	1
+lAvz:
+	lAv z	1
+lEtIN:
+	lEt IN	1
+lEtR:
+	lEt R	19
+lEtRz:
+	lEt Rz	3
+lIftIN:
+	lIft IN	1
+lIkIN:
+	lIk IN	1
+lIs~IN:
+	lIs~ IN	3
+lIvz:
+	lIv z	8
+lUkIN:
+	lUk IN	17
+lUks:
+	lUk s	24
+lUkt:
+	lUk t	3
+lalipap:
+	lali pap	1
+lesIN:
+	les IN	1
+lin6z:
+	lin6 z	1
+livz:
+	liv z	1
+m&Tyuz:
+	m&T yu z	2
+m&cIz:
+	m&c Iz	2
+m&tR:
+	m &t R	1
+m6Sin:
+	m 6 Si n	1
+m6riz:
+	m6ri z	1
+m9I:
+	m 9I	59
+m9Ik:
+	m 9I k	2
+m9Ikr6fon:
+	m 9I kr6 fon	3
+m9In:
+	m9 In	2
+m9IsElf:
+	m 9I sElf	1
+m9It:
+	m9 It	12
+mADR:
+	m ADR	3
+mAfIn:
+	m Af In	4
+mAg:
+	m Ag	1
+mAmi:
+	mAm i	6
+mApIt:
+	m Ap It	1
+mAs~t:
+	m As ~t	1
+mEni:
+	m Eni	44
+mEs:
+	m Es	1
+mIkiz:
+	mIki z	2
+mIsIz:
+	mIs Iz	1
+mIstek:
+	mIs tek	1
+mIstrIs:
+	mIst rIs	1
+mOr:
+	m Or	79
+mOrnIN:
+	m Or n IN	12
+mamiz:
+	mami z	32
+manstR:
+	m an st R	4
+marSmElo:
+	m ar SmElo	1
+marko:
+	m ar ko	4
+markoz:
+	m ar ko z	1
+med:
+	me d	7
+mekIN:
+	mek IN	5
+meks:
+	mek s	2
+meme:
+	me me	2
+mil:
+	mi l	1
+milt9Im:
+	mi l t9Im	1
+mimi:
+	mi mi	7
+minz:
+	min z	1
+mirR:
+	mi rR	32
+mit:
+	m it	15
+	mi t	2
+muvIN:
+	muv IN	1
+muvi:
+	muv i	2
+myuzIk:
+	m yu z Ik	1
+myuziM:
+	m yu z iM	1
+n&nz:
+	n&n z	1
+n&pIN:
+	n&p IN	1
+n9In:
+	n9 In	4
+n9Is:
+	n 9I s	1
+n9IsR:
+	n9Is R	1
+n9It:
+	n9 It	4
+nAmbRz:
+	nAmbR z	9
+nEkst:
+	nEk st	8
+nEvR:
+	n EvR	3
+nOIz:
+	nO Iz	1
+nakt:
+	nak t	6
+nidId:
+	ni dId	1
+nidz:
+	nid z	1
+nit:
+	n it	1
+nobadi:
+	no badi	2
+nobadiz:
+	no badiz	1
+nop:
+	no p	5
+noz:
+	no z	28
+op~IN:
+	op~ IN	2
+op~d:
+	op~ d	1
+op~z:
+	op~ z	4
+p&n:
+	p &n	2
+p&t:
+	p &t	36
+p&tIN:
+	p &t IN	3
+p&ts:
+	p &t s	3
+p6G&m6z:
+	p6G&m6 z	1
+p9Ilz:
+	p9Il z	2
+pApIt:
+	p Ap It	11
+pApiz:
+	pApi z	3
+pINk:
+	p IN k	6
+pIkcR:
+	pIk cR	4
+pIkcRz:
+	pIk cR z	3
+pOl:
+	p Ol	54
+pOlz:
+	p Ol z	3
+pUSIN:
+	pUS IN	1
+pUld:
+	pUl d	1
+pUtIN:
+	pUt IN	8
+pUts:
+	pUt s	2
+pakIt:
+	pak It	1
+pakItbUk:
+	pak It bUk	6
+papi:
+	pap i	1
+park:
+	p ar k	1
+parti:
+	part i	4
+peGIz:
+	peG Iz	5
+pik:
+	pi k	1
+pis:
+	pi s	4
+pleIN:
+	ple IN	14
+pled:
+	ple d	1
+ples:
+	ple s	1
+plez:
+	ple z	1
+r&bIt:
+	r&b It	6
+r&bIts:
+	r&b It s	1
+r&gIdi:
+	r&gI di	4
+r&t:
+	r &t	1
+r9Id:
+	r 9I d	2
+r9It:
+	r9 It	76
+r9Und:
+	r9 U nd	2
+rAg:
+	r Ag	1
+rAn:
+	r An	3
+rEd:
+	r Ed	12
+rEk6gn9Iz:
+	rEk6gn9 Iz	3
+rIN:
+	r IN	36
+rININ:
+	r IN IN	11
+rINz:
+	r IN z	7
+rId:
+	r Id	1
+rImEmbRd:
+	rImEmbR d	1
+rImuv:
+	rI muv	2
+rakIN:
+	rak IN	2
+rezInz:
+	re z In z	6
+ridIN:
+	rid IN	4
+rozIz:
+	roz Iz	4
+rozi:
+	roz i	4
+s&ndLz:
+	s &nd L z	1
+s&ndwIc:
+	s &nd wIc	7
+s&t:
+	s &t	2
+s6pozd:
+	s6 pozd	2
+s9Id:
+	s 9I d	4
+s9Idz:
+	s 9I d z	1
+sAmWEr:
+	sAm WEr	1
+sAmt9Imz:
+	sAm t9Im z	3
+sApR:
+	s Ap R	4
+sEd:
+	s Ed	3
+sIN:
+	s IN	11
+sIndi:
+	sIn di	29
+sIndiz:
+	sIn di z	2
+sIt:
+	s It	21
+sItIN:
+	s It IN	6
+sIzRz:
+	s Iz Rz	10
+sOri:
+	s Or i	3
+sOrt:
+	s Or t	4
+sOsRz:
+	sO s Rz	1
+sR:
+	s R	2
+seIN:
+	se IN	16
+sem:
+	se m	5
+sin:
+	si n	1
+siriL:
+	si riL	3
+sit:
+	s it	1
+siz:
+	si z	7
+sk9I:
+	sk 9I	1
+skr&cIN:
+	skr&c IN	1
+skwRLz:
+	skwRL z	1
+sl9Id:
+	sl 9I d	2
+slIpRz:
+	s lIp Rz	1
+slips:
+	slip s	1
+sliv:
+	s liv	1
+slivz:
+	s liv z	1
+smElIN:
+	smEl IN	6
+smElz:
+	smEl z	1
+smOl:
+	s m Ol	1
+sno:
+	s no	2
+snobloR:
+	s no bloR	1
+snom&n:
+	s no m&n	4
+snoz:
+	s no z	1
+son:
+	so n	1
+soz:
+	so z	1
+st&kIN:
+	st&k IN	1
+st&kt:
+	st&k t	1
+st&nd:
+	st &nd	3
+st&ndIN:
+	st &nd IN	1
+stIkIN:
+	stIk IN	1
+stIks:
+	stIk s	2
+stOr:
+	st Or	4
+start:
+	st ar t	8
+starts:
+	st ar t s	1
+stek:
+	s tek	16
+stez:
+	ste z	3
+str&ps:
+	str&p s	2
+strINz:
+	s tr IN z	1
+strit:
+	s tr it	1
+swIN:
+	s w IN	1
+swININ:
+	s w IN IN	1
+swINz:
+	s w IN z	1
+swImIN:
+	swIm IN	3
+swit:
+	s wi t	1
+swithart:
+	s wi t h ar t	3
+t6dez:
+	t6de z	1
+t9I:
+	t 9I	7
+t9IgR:
+	t 9I gR	1
+t9IgRz:
+	t 9I gR z	1
+t9Imz:
+	t9Im z	1
+t9Iz:
+	t 9I z	1
+t9URz:
+	t9UR z	2
+tAmi:
+	tA mi	3
+tEl6fonz:
+	tEl6fon z	5
+tISuz:
+	tI Suz	1
+tOIz:
+	tO Iz	24
+tOkIN:
+	tOk IN	13
+tOks:
+	tOk s	2
+tOkt:
+	tOk t	1
+tRnd:
+	tRn d	1
+tRtLz:
+	tRtL z	2
+tekIN:
+	tek IN	5
+teks:
+	tek s	1
+tests:
+	test s	1
+tr9I:
+	tr 9I	11
+tr9IIN:
+	tr 9I IN	4
+tr9Ik:
+	tr 9I k	1
+tr9IsIkL:
+	tr 9I sIkL	1
+trenz:
+	tren z	1
+tri:
+	tr i	1
+tulIp:
+	tu lIp	1
+v&kyum:
+	v&k yu m	1
+v&kyumz:
+	v&k yu m z	1
+v&l~t9In:
+	v&l~t9 In	1
+w9I:
+	w 9I	3
+wAndR:
+	wAn dR	4
+wAndRfL:
+	wAn dRfL	2
+wAnz:
+	wAn z	14
+wAz~t:
+	wAz ~t	1
+wElkM:
+	wEl kM	2
+wErIN:
+	wEr IN	4
+wIT9Ut:
+	wIT 9Ut	2
+wIndoz:
+	wIndo z	1
+wOkIN:
+	wOk IN	2
+wOl:
+	w Ol	2
+wRdz:
+	wRd z	4
+wRks:
+	wRk s	1
+wUd~t:
+	wUd ~t	2
+wantId:
+	want Id	2
+wants:
+	want s	20
+weg~:
+	we g~	1
+wek:
+	we k	1
+wekIN:
+	we k IN	2
+weks:
+	we k s	1
+wevIN:
+	we v IN	3
+wir:
+	wi r	11
+wiv:
+	wi v	2
+yEstRde:
+	yEs tRde	8
+yuZw6li:
+	yu Zw6li	2
+yud:
+	yu d	5
+yuk6leli:
+	yu k6leli	2
+yul:
+	yu l	4
+yunIkOrn:
+	yu nIkOrn	1
+yunik:
+	yu nik	1
+yur:
+	yu r	200
+yursElf:
+	yu rsElf	4
+yurz:
+	yu r z	6
+yutEnsIlz:
+	yu tEnsIl z	1
+yuv:
+	yu v	6
+yuz:
+	yu z	4
+yuzIz:
+	yu z Iz	3
+z9Il6fon:
+	z 9I l6 fon	2
+zIpIN:
+	zIp IN	2
+zIpR:
+	zIp R	6
+zIpRz:
+	zIp Rz	1
+zIpt:
+	zIp t	1
+zi:
+	z i	5
+zu:
+	z u	1
+
+Words with both types of errors
+------------------
+&niz:
+	&ni zni	2
+6klak:
+	fOr6 klak	1
+6klaks:
+	fOr6 klaks	1
+6lON:
+	far6 lON	1
+6mily6:
+	fOr6 m ily6	1
+	s6m ily6	3
+6n:
+	6 n9U	2
+	6 nEl6f6nt	3
+	s6 n9U	1
+	s6 nEl	2
+	s6 nEl6f6nt	2
+6t&ct:
+	s6 t&ct	1
+6we:
+	DIs6 we	1
+	z6 we	2
+9Il:
+	9I ltEl	1
+9Im:
+	9I m6f6roS6s	1
+	9I mnirb	1
+9Is:
+	9I sk	1
+	9I skrim	4
+9Iz:
+	r9 Iz	1
+9UL:
+	n9U L	3
+As:
+	A sInD6h9Us	1
+D&t:
+	WErzD &t	1
+D&ts:
+	D&t s&z	1
+	D&t s&zfar&z	2
+	D&t s6	72
+	D&t s6h	7
+	D&t s6m	3
+	D&t s6tRtL	3
+	D&t sIn	2
+	D&t sOl	10
+	D&t sW	1
+	D&t sdIlIS6s	1
+	D&t sgel	1
+	D&t sgret	1
+	D&t sk	1
+	D&t slAvli	1
+	D&t sm&GIk	1
+	D&t snat	25
+	D&t spRpL	2
+	D&t sr9It	58
+	D&t srAf	1
+D6:
+	D 6b&T	1
+	D 6bOI	29
+	D 6bOl	5
+	D 6batM	1
+	D 6dAk	1
+	D 6dOg	26
+	D 6dal	4
+	D 6fl9UR	1
+	D 6k	2
+	D 6m9Us	5
+	D 6n9IskIs	1
+	D 6r&b	9
+	D 6rEkRd	1
+	D 6sn&p	7
+	D 6trAk	1
+	D 6zIpR	7
+	WErzD 6	21
+	WErzD 6b6lun	1
+	WErzD 6bOI	3
+	WErzD 6bOl	1
+	WErzD 6dAk	3
+	WErzD 6dOg	9
+	WErzD 6dOgi	9
+	WErzD 6dali	1
+	WErzD 6k	2
+	WErzD 6kIti	2
+	WErzD 6r&b	1
+	brASD 6dOg	1
+	pUtD 6bOI	1
+	pUtD 6brAS	1
+	pUtD 6dOg	9
+	pUtD 6dOgi	15
+	pUtD 6tOI	2
+	zIpD 6zIpR	2
+DErz:
+	DEr z6	7
+	DEr zD6bebi	1
+	DEr zh	1
+	DEr znat6	1
+Doz:
+	Do z6	1
+	Do zfAni	1
+	Do zh	2
+Gudiz:
+	Gudi zrid	1
+InAf:
+	sIn Af	1
+Ins9Id:
+	pUtItIn s 9I d	4
+	sIn s 9I d	5
+Intr6stIN:
+	sIn tr6st IN	1
+Its:
+	&tIt s6kIti	1
+	It s6	55
+	It s6h	5
+	It s6kIti	2
+	It s6m	1
+	It s6prIti	2
+	It s6tRtL	1
+	It sGudi	1
+	It sIn	2
+	It sOl	7
+	It sdenGR6s	2
+	It sk	2
+	It slIkwId	1
+	It snat	26
+	It sr9It	1
+	It ssuci	1
+	It stAN	1
+Ofli:
+	Of lismart	1
+Siz:
+	Si zrid	1
+	Si zstIl	1
+W9I:
+	sW 9I	1
+WAts:
+	WAt s6m	1
+	WAt sIn	21
+	WAt sOl	1
+	WAt shRnem	2
+WErz:
+	WEr z6	1
+	WEr zD6bebi	2
+	WEr zh	6
+arnt:
+	ar ntEnim	3
+	ar ntkeks	1
+b&TtAb:
+	6b&T tAb	1
+b&k:
+	zb& k&n	1
+b9I:
+	b9 Id&d	1
+	b9Ib 9I	52
+	kAvRdApb 9I	1
+bIt:
+	6lItLb It	3
+bOIz:
+	6bOI z	8
+	bOI zhEr	1
+bRdi:
+	6bRd i	2
+bUks:
+	&tD6bUk s	1
+	bUk sIn	4
+bebiz:
+	bebi z6	1
+	bebi zhEr	2
+blaks:
+	blak sIn	2
+	blak sfEl	1
+	blak sr9It	1
+brADR:
+	rbr ADR	2
+brIN:
+	mamwIlbr IN	1
+brININ:
+	rbr IN IN	1
+cIps:
+	cIp sIn	1
+d&d&z:
+	d&d& zskr&ci	1
+d&diz:
+	d&di zfes	1
+	d&di zskr&ci	10
+d&nz:
+	d&pRd&n zhEr	1
+dAki:
+	6dAk i	1
+dAkiz:
+	cIkizdAki z	1
+dAmptiz:
+	hAmptidAmpti z	1
+dIs9IdId:
+	vdIs 9I dId	1
+dOgiz:
+	&nd6dOgi z	1
+	6dOgi z	4
+	dOgi zh	1
+	dOgi zhEr	5
+	fOrD6dOgi zhEr	1
+dOgz:
+	6dOg zfes	4
+dalfIn:
+	6dal f In	1
+daliz:
+	dali zhEr	3
+dr&g~z:
+	dr&g~ zh	1
+	dr&g~ zhEr	1
+f9Ind:
+	nEvRf 9I nd	1
+fOr:
+	6Eff Or	1
+	bIgf Or	1
+	fO rbrEkf6st	1
+	kef Or	1
+	tepf Or	1
+fOrti:
+	f Or tipis	1
+fevrIt:
+	rfevr It	8
+fevrIts:
+	rfevr It s	1
+filz:
+	fil zfAni	2
+frAstretIN:
+	t6vfrAstret IN	1
+gat~:
+	gat ~strONR	1
+h&nd:
+	hIzh &nd	5
+	hRh &nd	1
+	rh &nd	36
+	s6h &nd	2
+h&ndz:
+	hIzh &nd z	2
+	hRh &nd z	1
+	rh &nd z	1
+h&t:
+	hIzh &t	1
+	s6h &t	2
+h9Us:
+	hIzh 9Us	18
+	m9Ih 9Us	4
+	s6h 9Us	2
+	zh 9Us	4
+hEd:
+	hIzh Ed	1
+hEr:
+	hIzh Er	7
+	hRh Er	1
+	m9Ih Er	4
+	rh Er	6
+	s6h Er	1
+hErbrAS:
+	s6h Er brAS	1
+hEvi:
+	zh Evi	1
+hEv~:
+	m9Ih Ev~	1
+hIm:
+	fOrhI m	1
+hIz:
+	SevhI zfes	1
+	Undh Iz	1
+	hI zbEd	3
+	hI zfes	4
+	hI zhEr	10
+	hI zskr&ci	1
+	zh Iz	9
+hOrs:
+	s6h Or s	1
+hOrsi:
+	s6h Or si	1
+hR:
+	zh Rtep	1
+hard:
+	rilh ar d	1
+	s6h ar d	2
+hirz:
+	hir z6	9
+hiz:
+	hi z6pApIt	1
+	hi zstIl	2
+irz:
+	ir zstIl	1
+k&cIN:
+	mAstbik&c IN	1
+k&t:
+	6k &t	16
+k9Ind:
+	sk 9I nd	3
+k9It:
+	6k 9I t	2
+kAp:
+	6k Ap	2
+kItiz:
+	6kIti z	1
+kOld:
+	kOl debi	1
+kar:
+	6k ar	1
+keG:
+	6k eG	1
+kez:
+	ke zhEr	4
+klinIN:
+	rklin IN	1
+klozd:
+	stekloz d	1
+kom:
+	6k om	1
+komIN:
+	rkom IN	1
+kwIlt:
+	6k wIl t	1
+kyubz:
+	sk yu b z	1
+l9I:
+	hil 9I	1
+lEg:
+	rl Eg	2
+lEts:
+	lEt snat	1
+lRnd:
+	vlR nd	1
+lUks:
+	lUk s6	1
+	lUk sIn	1
+lalipap:
+	6lali pap	1
+lin6z:
+	lin6 zhEr	1
+m&tR:
+	s6m &t R	1
+m6riz:
+	m6ri zhEr	1
+m9I:
+	lOstm 9I	1
+	tUkm 9I	1
+m9Ik:
+	6m 9I k	1
+m9IsElf:
+	wuwum 9I sElf	1
+m9Us:
+	mIkim 9Us	1
+m9Usi:
+	6m9Us i	3
+mADRz:
+	rm ADR zh&d6	1
+mANkiz:
+	mANki zhEr	1
+mAg:
+	s6m Ag	1
+mEs:
+	6m Es	3
+mOr:
+	ntEnim Or	3
+mamiz:
+	mami zhEr	7
+	mami zskr&ci	1
+n9It:
+	n9Itn9 It	30
+nEklIs:
+	6n EklIs	3
+nirb9I:
+	mnirb 9I	1
+noz:
+	no z6	1
+p9Ik:
+	m&sp 9I k	1
+pAp:
+	6p Ap	1
+pApIt:
+	6p Ap It	3
+	onli6p Ap It	2
+pApiz:
+	pApi zbEd	1
+	pApi zh	2
+pEr:
+	6p Er	1
+pOl:
+	rfrEndzp Ol	1
+pRs:
+	6p R s	1
+pisIz:
+	tipis Iz	1
+r&bIt:
+	6r&b It	16
+r&t:
+	r &tIt	1
+r9It:
+	Olr9 It	70
+r9Und:
+	r9 Undh	1
+ridIN:
+	zrid IN	2
+s&ndwIc:
+	GElos &nd wIc	1
+sOrt:
+	s Or t6v6rEd	1
+	s Or t6vfrAstret	1
+steks:
+	s tek sOl	1
+t&t&z:
+	t&t& zhEr	2
+tANz:
+	hIztAN z	1
+tOIz:
+	6tOI z	1
+	6tOI zb&	1
+tRtLz:
+	tRtL ztiT	1
+tr9IIN:
+	rtr 9I IN	2
+trIki:
+	rt rIki	1
+v&kyum:
+	v&k yu mklinR	2
+v&l~t9In:
+	6v &l ~t 9I n&zInvi	1
+v9I6lIn:
+	6v 9I 6 l In	2
+vi:
+	6v i	1
+w9I:
+	6w 9I	1
+wAnz:
+	wAn zh	1
+wOl:
+	6w Ol	2
+wek:
+	we kAp	1
+yud:
+	yu dr&DR	2
+yur:
+	yu r9	1
+	yu rTAm	3
+	yu rbEdrum	1
+	yu rbEdsprEd	1
+	yu rbRTde	6
+	yu rbr	3
+	yu rbrEkf6st	1
+	yu rciks	2
+	yu rdAn	6
+	yu rdrAmInD6p6red	1
+	yu rdrAmz	1
+	yu rdrEs	1
+	yu rfINgR	10
+	yu rfINgRIn	9
+	yu rfINgRz	1
+	yu rfevr	9
+	yu rfrEndzp	1
+	yu rh	43
+	yu rhEd	2
+	yu rklin	1
+	yu rkom	3
+	yu rl	2
+	yu rm	1
+	yu rmIt~	1
+	yu ron	1
+	yu rpEnsL	1
+	yu rpurold	1
+	yu rrIst	1
+	yu rsIli	4
+	yu rstrolR	1
+	yu rswEtR	2
+	yu rt	1
+	yu rtAN	3
+	yu rto	1
+	yu rtr	2
+yuv:
+	yu vdIs	1
+	yu vit~	1
+	yu vlR	1
+	yu vnEvRsin	1
+	yu vsin	1
+yuz:
+	k&nyu zh	1

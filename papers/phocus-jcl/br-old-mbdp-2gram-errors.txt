@@ -1,0 +1,4838 @@
+
+
+Results for jcl-postbugfix/br-old-mbdp-bigram.txt:
+(ignoring first 1000 utterances)
+============================
+
+Found Words
+-----------
+Over-segmented section of a true word: 1871 (7.89%)
+Contained multiple whole true words: 5397 (22.76%)
+Contained partial true words: 409 (1.72%)
+
+Over-segmented vowel from a true word: 49 (0.21%)
+Over-segmented affixes from true words: 726 (3.06%)
+Contained an under-segmented determiner: 1346 (5.68%)
+Contained an under-segmented collocation: 3396 (14.32%)
+
+Total: 23712
+
+
+True Words
+----------
+Found just over-segmented: 759 (2.52%)
+Found just under-segmented: 13014 (43.14%)
+Found both over- and under-segmented: 359 (1.19%)
+
+Found with over-segmented vowels: 49 (0.16%)
+Found with over-segmented affixes: 695 (2.30%)
+Determiners that were found under-segmented: 1322 (4.38%)
+
+Total: 30167
+
+
+Word Stats
+----------
+Correct (true pos.): 16035
+Incorrect found words (false pos.): 7677
+Missing true words (false neg.): 14132
+Precision: 67.62%
+Recall: 53.15%
+F: 59.52%
+
+
+Boundary Stats
+--------------
+Precision: 92.12%
+Recall: 64.30%
+F: 75.74%
+
+
+Lexicon Stats
+-------------
+Precision: 37.16%
+Recall: 58.67%
+F: 45.50%
+
+Undersegmented words
+------------------
+#:
+	#D*	10
+	#De	13
+	#Diz	27
+	#Doz	47
+	#hQs	1
+	#kiz	1
+	#seIN	2
+	#wi	2
+	#yu	50
+	#yuS3	1
+	#yuduIN	20
+	#yukIs	1
+	#yukr9IN	2
+	#yulet&tskul	1
+	#yusItIN	1
+	#yut9Rd	1
+	#yuw*IN	1
+	D*#	7
+	D*#D6	2
+	D*#et	2
+	D*#s6mm%peGIzwidId~tsi	1
+	D*#tumEni	1
+	D*wi#	1
+	D*yu#	2
+	D*z#v&kyumklinR9noyu	1
+	D6bOl#D6sem	1
+	De#	7
+	Diz#	9
+	Diz#b3dz	1
+	Diz#roziz	1
+	Diz#w3dz	1
+	Doz#	40
+	Doz#hIz	2
+	Iz#frEndpitR	1
+	W*#	1
+	W*#D6	8
+	W*#hIz	1
+	W*#hIz9z	3
+	W*#y)	1
+	W*#yu	5
+	W*#yug6n6go	1
+	W*z#bot	2
+	WAt#yug6n6du	8
+	b7z#D*	1
+	h(#	6
+	hIz9z#klozd	1
+	hQ#yu	11
+	hu#yu	10
+	hu#yukOlIN	1
+	kAmtu#	1
+	m9p&nts#fOlIN	1
+	rEstD&t#h(	1
+	s#h(	1
+	t7z#	1
+	yu#	6
+	z#	1
+#m:
+	goovRD6#m	1
+	y)#m	1
+#mz:
+	SLwipUthIz#mz	1
+#nt:
+	#ntDe	6
+	#ntEnim%	1
+	D*#ntEnim%	2
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+%:
+	%D6	1
+	%gr&mpa	1
+	%mAg	1
+	%yu	1
+	h&m%b6loni	1
+%InG:
+	6%InG	2
+&ftR:
+	kAmz&ftRo	2
+&lf6bEt:
+	D*z6n&lf6bEtanh(	1
+&m:
+	9&m	1
+	hu&m9	2
+&n:
+	D6t7zb&k&n	1
+&nd:
+	&nd6dOgi	1
+	6kw*iM&ndsOD6muvi	1
+	G&k&ndGIl	2
+	yugorQnd&ndrQnd	1
+&ndi:
+	r&gIdi&ndi	2
+&niz:
+	&nizt3n	2
+	an&nizni	2
+&nt:
+	&ntG&kimeks	1
+&t:
+	#yulet&tskul	1
+	&tD6sem	1
+	&tD6zu	2
+	&tgr&nmaz	1
+	&th3OfIs	2
+	&tmIsIzf	1
+	6lalipap&t	1
+	IN&t	2
+	IN&tD6	1
+	dIz3t&t	1
+	lUk&t	83
+	lUk&tD6bUk	8
+	lUk&tDIs	40
+	wilIs~tu&thom	1
+	y)bUk&t	1
+	y)dalz&thom	1
+	y)drAmz&t	1
+	y)fon&t	1
+	y)nat&tOlIntr6stIdIn	1
+	yulUk&tIt	1
+&z:
+	&zInvIni	1
+	&zf#&z	4
+	&zf#&zItgoz	4
+	&zop~&zItgoz	2
+	&zsun&zyugotuskul	2
+	&zy)S3t	1
+	6v&l~t9n&zInvi	1
+(:
+	hIz(	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	z(	2
+(fonz:
+	Sih&z(fonzan	1
+(z:
+	m9(z	2
+	sAclON(z	1
+*:
+	flotInD6*	1
+6:
+	&nd6dOgi	1
+	6%InG	2
+	6Eff%	1
+	6G#	1
+	6b&t	1
+	6b3d	12
+	6b6lun	7
+	6b7	15
+	6bEd	1
+	6bIgR	1
+	6bOl	5
+	6bo	1
+	6bol6v	2
+	6bol6vmAS	1
+	6bot	3
+	6brIG	3
+	6d%	3
+	6d9L	1
+	6dAk	12
+	6dOg	11
+	6dOgi	17
+	6dal	8
+	6dezi	1
+	6drAm	2
+	6f3ifes	1
+	6f6roS6s	1
+	6f9REnG~	1
+	6fUt	1
+	6flQR	4
+	6fon	5
+	6h%	6
+	6h&nd	2
+	6h&t	2
+	6h*	5
+	6hQs	5
+	6hol	5
+	6k#	1
+	6k&t	12
+	6k*6t	1
+	6k9t	3
+	6kAp	8
+	6kIs	1
+	6kIti	17
+	6kIt~	1
+	6kQ	11
+	6kUki	1
+	6kom	4
+	6kwIltovR	1
+	6l9~	5
+	6lAncbaks	1
+	6lEm~	1
+	6lEtR	2
+	6lalipap&t	1
+	6lat6v	9
+	6lesIN	1
+	6mANki	6
+	6mAg	1
+	6mQs	8
+	6mQsi	2
+	6n&p	1
+	6nAmbR	1
+	6nEklIs	1
+	6nu	3
+	6p*	1
+	6p3s	1
+	6pAp	1
+	6pApIt	8
+	6pApi	4
+	6pIg	5
+	6pIkcR	1
+	6peGD*	1
+	6pi	1
+	6pic	1
+	6pinAtbAtR	1
+	6pis	1
+	6pis6v	2
+	6prItiflQR	1
+	6r&bIt	6
+	6r&t	2
+	6rEdbIb	1
+	6rEkRd	1
+	6rIN	4
+	6rIb~	2
+	6rakIN	1
+	6roz	1
+	6rustR	1
+	6s	1
+	6sIli	4
+	6sakan	1
+	6sit	1
+	6sn&p	3
+	6snom&n	4
+	6str&p	1
+	6strOb*i	1
+	6t3tL	6
+	6t7	10
+	6tQR	13
+	6tQRanD	1
+	6ti	2
+	6trANk	1
+	6trAk	4
+	6v	2
+	6v&kyum	2
+	6v&l~t9n&zInvi	1
+	6vi	1
+	6w3kQt	1
+	6wOl	1
+	6wUdrakIN	1
+	6zIp	1
+	6zi	1
+	6zibr6	5
+	9h&v6nEklIsan	2
+	9m6f6roS6s	1
+	9med6mIstek	1
+	9wISItw36	1
+	ANkLm9ktoldmihiridyu6st%i	1
+	D&ts6gUdg3l	5
+	D*z6	5
+	D*z6dOganDIspeG	1
+	D*z6roz	1
+	D6b7ztekIN6b&T	1
+	D6lItLc9ldh&zan6bIb	1
+	DIsIz6	20
+	In6baks	1
+	In6c*	3
+	In6keG	1
+	ItIz6	2
+	Its6bAni	1
+	Its6h&t	1
+	Its6pIg	2
+	IzDIs6	3
+	W*dIdwisi6muvi	1
+	WEnhigozf%6wOk	1
+	bi6pis6vstek	1
+	dIdyuh&v6	1
+	f%6wOk	3
+	f%6wOkanD6	1
+	f%6wOkso	1
+	gat6pian	1
+	gof%6wOk	5
+	h&Nan6sEk	1
+	h&d6gret	1
+	h&v6batMdAzIt	1
+	h&v6d9pRh(	1
+	h&v6mQT	1
+	h&v6pis6vstekf%brEkf6st	1
+	hih&z6bIgtAN	1
+	hiz6mQs	2
+	hulIvzIn6	1
+	k6dwiyuzf%6d9pR	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	2
+	nEvRgat6	1
+	rid6	8
+	s%t6v6rEd	1
+	s&tan6wOl	1
+	s6	1
+	s6lItLbIt	1
+	s6m	1
+	sINmi6sON	2
+	suzih&v6	2
+	tek6bIgbot	1
+	tekIN6b&T	1
+	tekIN6b&Tr9t	1
+	turid6	1
+	wet6	12
+	wet6sEk~d	1
+	wetwimIst6peG	1
+	wik6dmek6brIG	1
+	wiskIpt6peG	1
+	y)sAc6n9smIstrIs	1
+	y)strolRf%6r9d	1
+	yumed6	4
+	yuyuZw6lih&v6s	1
+	zgat6m9kan	1
+6bQt:
+	hQz6bQthIzzIp	1
+6fred:
+	6fred6vD6	1
+	6fred6vIt	1
+6hEd:
+	go6hEd	19
+6klaks:
+	f%6klaks	1
+6kw*iM:
+	6kw*iM&ndsOD6muvi	1
+6l#m:
+	6n6l#m	1
+6lON:
+	f#6lON	1
+6n:
+	6n6l#m	1
+	6n9	3
+	6n9Rn	1
+	6nAmbrEl6	2
+	6nEg	2
+	6nEl	2
+	6nEl6f6nt	5
+	6nEs	2
+	6nIndi~	1
+	6nQL	3
+	6ne	4
+	6ni	1
+	D*z6n&lf6bEtanh(	1
+	D*z6n9	2
+	gat6nebi	1
+	y)6nOflism#t	1
+6p#t:
+	kem6p#t	1
+6rQnd:
+	kAmz6rQndWEn	2
+	rAn6rQnd	1
+	rIN6rQndD6	1
+6slip:
+	stIl6slip	2
+6t&ct:
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+6v:
+	6bol6v	2
+	6bol6vmAS	1
+	6fred6vD6	1
+	6fred6vIt	1
+	6lat6v	9
+	6pis6v	2
+	6vD*	1
+	6vD6keG	1
+	6vDIsp9l	1
+	6vDiz	7
+	6vh(	5
+	6vhIzhQs	2
+	6vk%s	1
+	6vm9stAm6k	1
+	6vs6ms%t	1
+	6vtiz	1
+	6vyu	1
+	D6fudQt6vD6s(iL	1
+	D6nem6v	1
+	GEnR6s6vyu	1
+	W*IzD6rEst6vy)	1
+	bIts6vIt	1
+	bOlz6v	2
+	bi6pis6vstek	1
+	fUl6vpoziz	1
+	gatOl6v	1
+	gatOlstimkAmINOf6vIt	1
+	h&v6pis6vstekf%brEkf6st	1
+	h(zD6rEst6vIt	1
+	hQsIli6vmi	1
+	hizitINp#t6vD6	1
+	k9nd6v	25
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+	k9ndz6v	1
+	kAmINQt6v	2
+	lat6v	1
+	lats6v	10
+	m%6v	1
+	pis6vmit	4
+	rAnQt6v	1
+	rEst6v	2
+	rId6vOl	1
+	s%t6v	2
+	s%t6v6rEd	1
+	s%t6vfrAstretIN	1
+	s6mm%6v	1
+	sOl6v	3
+	wih&vOl6v	1
+	y)tekD6dOgQt6vD6hQs	1
+	yuvgatplEnti6vt7z	1
+	z6vD6	1
+6we:
+	wAn6we	1
+6wek:
+	hiz6wek	3
+9:
+	6n9	3
+	9&m	1
+	99mi	2
+	9S&do	1
+	9SUdit	1
+	9TINk	47
+	9TINk9	4
+	9TOtyuw3goINtutekhIzklozOf	1
+	9bEt	5
+	9dId	2
+	9dId~tTINkItwUd	1
+	9etItOl	1
+	9fQnd	6
+	9gEs	7
+	9gEt	2
+	9gat	12
+	9h&v6nEklIsan	2
+	9h&vtulIftD6mit	1
+	9hopD6	1
+	9k&n	11
+	9k6d	1
+	9kOt	2
+	9lAvEg	1
+	9lAvhQyuholdD6fon	1
+	9lAvyu	2
+	9lOstm9	1
+	9m9t	1
+	9m9tit	1
+	9med6mIstek	1
+	9nEvRsO	1
+	9noyuhetIt	1
+	9pUldanD6	1
+	9sO	3
+	9si	33
+	9stIl	1
+	9tUkIt	1
+	9wAndR	4
+	9wISItw36	1
+	9want	20
+	D*z#v&kyumklinR9noyu	1
+	D*z6n9	2
+	D6we9t9	1
+	SL9	3
+	W99k&ntgEtQt	1
+	bEtRD&n9k&nSoyu	1
+	ec9	1
+	g99rili	1
+	hu&m9	2
+	k&n9	15
+	k6d9	4
+	me9	7
+	wEl9	1
+9Rn:
+	6n9Rn	1
+9l:
+	9lduIt	1
+	9lgEt	7
+	9lity)lEg	1
+	9lklozm99z	1
+	9ltElyu	1
+9m:
+	9m6f6roS6s	1
+	9mQt	1
+	9mg6n6	18
+	9mh9dIN	2
+	9mhANgri	16
+	9ms%i	2
+	9msohANgri	10
+9s:
+	9skrim	4
+	9skyubz	1
+9v:
+	9vgat	2
+	9vgaty)	1
+	9vh3d	1
+9z:
+	9lklozm99z	1
+	D6dOgz9z	1
+	DozhIz9z	1
+	W*#hIz9z	3
+	hIz9z#klozd	1
+ADR:
+	D6ADR	11
+	hIzADRSu	2
+	s6mADR	5
+	s6mADRt7zh(	2
+ANkL:
+	ANkLm9ktoldmihiridyu6st%i	1
+AmbrEl6:
+	6nAmbrEl6	2
+	yuIzf%AmbrEl6	1
+Andu:
+	AnduD	3
+Any~:
+	oIzf%Any~	1
+AnzIp:
+	AnzIpD6p&nts	1
+	AnzIpDEmf3st	1
+	AnzIpIt	5
+	yuh&vtuAnzIp	1
+Ap:
+	Aph(	2
+	DedIgD6d3tAp	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	WEnhiweksAp	1
+	drINkApy)	3
+	h&NAp	5
+	hik&ngEtAp	1
+	kAp	1
+	kAvRdApb9h*	1
+	kl9mAp	1
+	klozdAp	1
+	lEtssItAph(	1
+	lIftItAp	3
+	op~ItAp	1
+	sAmbadiAp	1
+	st&kDEmAp	3
+	tItApIny)	1
+	weAp	4
+	yukOlINsAmbadiAp	2
+	yustUdAp	1
+	yuwan6st&kDEmAp	1
+	zIpItAp	10
+As:
+	f%As	2
+	gEtAsOld3ti	1
+	hutUkAstuEm9ti	1
+	lEtAs	1
+D&n:
+	bEtRD&n9k&nSoyu	1
+D&t:
+	D&tiDR	2
+	IzD&t	127
+	Iz~tD&tn9s	3
+	WAtsD&t	221
+	dAzD&t	8
+	goTruD&tbrIG	1
+	huzD&t	33
+	rEstD&t#h(	1
+	st&ndanD&tItm9tbrek	1
+	stIkD&tanD*	1
+	tD&t	1
+	tuduwITD&t	1
+	zD&tEg	2
+D&ts:
+	D&ts6gUdg3l	5
+	D&tsr9t	58
+D*:
+	#D*	10
+	6peGD*	1
+	6vD*	1
+	D*#	7
+	D*#D6	2
+	D*#et	2
+	D*#ntEnim%	2
+	D*#s6mm%peGIzwidId~tsi	1
+	D*#tumEni	1
+	D*Ol	3
+	D*Si	1
+	D*hi	23
+	D*higoz	6
+	D*wAzm%	1
+	D*wOkIN	1
+	D*wevIN	2
+	D*wi#	1
+	D*wigo	5
+	D*yu#	2
+	D*yugo	17
+	InD*	51
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	WAtElsIzInD*	1
+	WAtsInD*	8
+	b7z#D*	1
+	badizD*	1
+	gozanD*	1
+	ovRD*	5
+	r9tD*	11
+	sanD*	1
+	slivzD*	1
+	sovRD*	3
+	stIkD&tanD*	1
+	stIkItantuD*	1
+	wacQtD*g6n6fOlovR	1
+D*z:
+	D*z#v&kyumklinR9noyu	1
+	D*z6	5
+	D*z6dOganDIspeG	1
+	D*z6n&lf6bEtanh(	1
+	D*z6n9	2
+	D*z6roz	1
+	D*zD	4
+	D*zD6	12
+	D*zD6bebi	1
+	D*zD6bol	1
+	D*zs6mcIldr~	1
+	D*zs6mm%	1
+D6:
+	%D6	1
+	&tD6sem	1
+	&tD6zu	2
+	6fred6vD6	1
+	6kw*iM&ndsOD6muvi	1
+	6vD6keG	1
+	9h&vtulIftD6mit	1
+	9hopD6	1
+	9lAvhQyuholdD6fon	1
+	9pUldanD6	1
+	AnzIpD6p&nts	1
+	D*#D6	2
+	D*zD6	12
+	D*zD6bebi	1
+	D*zD6bol	1
+	D6ADR	12
+	D6EmIz	1
+	D6End	5
+	D6Su	2
+	D6b3di	1
+	D6b3diz	1
+	D6b6rEtIz	1
+	D6b7	27
+	D6b7znemm#ko	1
+	D6b7zt3n	4
+	D6b7ztekIN6b&T	1
+	D6b7ztuhEvi	1
+	D6bEst	5
+	D6bOl#D6sem	2
+	D6bUk	29
+	D6batM	1
+	D6bebi	13
+	D6bic	1
+	D6bolOl	1
+	D6cIldr~	3
+	D6d%	53
+	D6dOgInD6hQs	6
+	D6dOgi	60
+	D6dOgz9z	1
+	D6dOgzhQs	4
+	D6daktR	1
+	D6dali	6
+	D6daliz	3
+	D6ebisiz	1
+	D6fudQt6vD6s(iL	2
+	D6hQs	5
+	D6i	1
+	D6k#	3
+	D6k&sL	1
+	D6k&tduIN	2
+	D6kAvR	1
+	D6kIdz	3
+	D6kIt~	1
+	D6klaktIksan	1
+	D6krak6d9l	2
+	D6lItLb7	2
+	D6lItLc9ldh&zan6bIb	1
+	D6ledi	1
+	D6leditUkIt	1
+	D6lediz	2
+	D6len	1
+	D6liSgozIns	1
+	D6m&tR	1
+	D6m9k	1
+	D6mun	6
+	D6myuziM	1
+	D6nem6v	1
+	D6p#k	1
+	D6p&nts	2
+	D6pApizbEd	1
+	D6pApizhQs	2
+	D6pINk	1
+	D6peGIz	1
+	D6r9t	2
+	D6rIN	7
+	D6rIvR	1
+	D6rONEndDo	1
+	D6rONTIN	1
+	D6roz	2
+	D6s	1
+	D6s9dz	1
+	D6sONzanD	1
+	D6sem	2
+	D6skul	1
+	D6st%	4
+	D6stim	1
+	D6strit	1
+	D6swINz	1
+	D6t7z	8
+	D6t7zb&k&n	1
+	D6tap	3
+	D6tebLkAmz	1
+	D6telanD6k9t	2
+	D6tep	2
+	D6tri	1
+	D6wOtR	1
+	D6we9t9	1
+	D6wuwum9	1
+	D6zif%zIpIN	1
+	D6zu	2
+	DedIgD6d3tAp	1
+	DesteanD6	1
+	DizInD6baks	1
+	GEsianD6	1
+	IN&tD6	1
+	IND6	12
+	IND6d%	2
+	INInD6s	1
+	INdOgInD6hQs	1
+	InD6b&TtAb	2
+	InD6baks	11
+	InD6hQs	13
+	InD6k#	6
+	InD6kAp	1
+	InD6sk9	1
+	IzD6dOgzhQs	1
+	IzD6wehigoz	1
+	IzSianD6fon	1
+	IzanD6peG	1
+	W*#D6	8
+	W*IzD6rEst6vy)	1
+	W*zD6b7	3
+	W*zD6dOgi	9
+	WEnwigotuD6bic	1
+	anD6fl%	6
+	anD6fon	11
+	brINyuInD6keG	1
+	dAzD6dOgi	4
+	dIdD6	2
+	f%6wOkanD6	1
+	fidD6	4
+	flotInD6*	1
+	g6n6gob&kInD6hQs	1
+	g6n6tekD6dOgQt	1
+	gEtD6	5
+	goInD6kIc~	1
+	goovRD6#m	1
+	h&vtupUSD6dOgIns6mm%	1
+	h(zD6rEst6vIt	1
+	h3GusInD6bol	1
+	hik&ntkAmOlD6weQt	2
+	hizitINp#t6vD6	1
+	k&nD6	1
+	klozD6d%	28
+	lAvD6	5
+	lUk&tD6bUk	8
+	m%nINanD6we	1
+	m%nINanD6weh(	1
+	miD6dal	1
+	mitD6	1
+	ovRD6s	1
+	p&tD6	27
+	pUtD6dOgi	15
+	pUty)fINgRInD6hol	2
+	r&ND6bEl	1
+	rIN6rQndD6	1
+	s&tanD6wOl	1
+	sItINanD6h%	1
+	sanD6fUt	1
+	skulInD6m%nIN	1
+	st#tD6k#	1
+	t3nD6peG	13
+	t9D6b7zSu	1
+	tOkanD6	3
+	tekD6dOgQt	1
+	tekD6dOgiQt	2
+	tl9kanD6m&sp9k	1
+	tuD6dOgi	3
+	tugoQtD6frAntwe	1
+	tusAmbadianD6fon	1
+	tusItanD6wOl	1
+	w3kD6semwe	1
+	wITD6	19
+	wOkINanD6tebL	1
+	wOkanD6tebL	2
+	wantD6dal	1
+	wir9dInD6strolR	1
+	wisEdD6l&st	1
+	y)dAkIzInD6k#wil	1
+	y)drAmInD6p6red	1
+	y)g6n6pUtD6dOg	1
+	y)tOkINtuanD6fon	1
+	y)tekD6dOgQt6vD6hQs	2
+	yudr9vD6k#	1
+	yug6n6tOkanD6	1
+	yul9kD6	7
+	yumIstD6baks	1
+	yup&tmianD6noz	1
+	yusiD6	4
+	yut3ndr9ttuD6fevrIt	1
+	yutOkINanD6fon	1
+	yuwan6pUtItb&kInD6baks	1
+	yuwan6pUtanD6tap	1
+	yuwantD6	16
+	yuzD6fon	1
+	z6vD6	1
+	zIpD6	2
+DEm:
+	AnzIpDEmf3st	1
+	DEmiv~h9R	1
+	dIdyunakDEmovR	1
+	kQntDEmfr6mh(	1
+	nakDEmovR	2
+	st&kDEmAp	3
+	tekDEmOf	1
+	widIdDEmOl	1
+	yunaktDEmovR	3
+	yuwan6st&kDEmAp	1
+DIs:
+	6vDIsp9l	1
+	D*z6dOganDIspeG	1
+	DIsIz6	21
+	IzDIs6	3
+	WAtsDIs	130
+	duwITDIs	1
+	lUk&tDIs	40
+	siEniTINanDIspeGyu	1
+	t3nDIspeGovR	1
+De:
+	#De	13
+	#ntDe	6
+	De#	7
+	DedIgD6d3tAp	1
+	DefElovR	1
+	Defl9	1
+	Dem&c	1
+	Deprab6li	1
+	DesteanD6	1
+	bIkAzDe	1
+	duDe	5
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+Dev:
+	DevgatnufISINpolz	1
+Diz:
+	#Diz	27
+	6vDiz	7
+	Diz#	9
+	Diz#b3dz	1
+	Diz#roziz	1
+	Diz#w3dz	1
+	DizInD6baks	1
+	sodIdDiz	1
+Do:
+	D6rONEndDo	1
+Doz:
+	#Doz	47
+	Doz#	42
+	Doz#hIz	2
+	DozhIz9z	1
+	DozhIzSules	1
+Ef:
+	6Eff%	1
+	EfIzf%	2
+	nEf	1
+	wimIstEf	1
+Eg:
+	6nEg	2
+	9lAvEg	1
+	iIzf%Eg	2
+	zD&tEg	2
+Eks:
+	EksIzf%z9l	1
+El:
+	6nEl	2
+	ElEm	1
+	ElIzf%lEm~	1
+El6f6nt:
+	6nEl6f6nt	5
+El6f6nts:
+	gatEl6f6ntsan	1
+Els:
+	WAtEls	29
+	WAtElsIzInD*	1
+	WAtElsdAzhi	3
+	sAmTINEls	12
+	wantsAmTINEls	3
+Em:
+	D6EmIz	1
+	ElEm	1
+	EmIzf%	1
+	sEmf%	2
+Em9ti:
+	hutUkAstuEm9ti	1
+En:
+	EnIzf%	1
+EnG~:
+	6f9REnG~	1
+End:
+	D6End	5
+	D6rONEndDo	1
+Eni:
+	#ntEnim%	1
+	D*#ntEnim%	2
+	Enib3dizInh(	1
+	Enih*	1
+	Enim%	7
+	ItEnibIgR	1
+	h&vEnifes	1
+	yuEni	1
+EniTIN:
+	siEniTINanDIspeGyu	1
+EniW*:
+	ItEniW*	1
+Enibadi:
+	tuEnibadi	2
+Es:
+	6nEs	2
+	EsIzf%	2
+G#:
+	6G#	1
+G&k:
+	G&k&ndGIl	2
+G&ki:
+	&ntG&kimeks	1
+GAst:
+	y)GAstg6n6it	1
+GEli:
+	Gef%GElibinz	1
+GElo:
+	GElos	1
+GEnR6s:
+	GEnR6s6vyu	1
+	y)soGEnR6s	1
+GEsi:
+	GEsianD6	1
+GIl:
+	G&k&ndGIl	2
+Ge:
+	Gef%GElibinz	1
+Gek:
+	brINGek	1
+Gus:
+	h3GusInD6bol	1
+If:
+	IfwilUkril	1
+	IfyuSUditIthAni	1
+	Ifyuh&vt9mbItwinfon	1
+	W*hiwUdsItIfhikem	1
+	k6dIfwih&d	1
+In:
+	&zInvIni	1
+	6v&l~t9n&zInvi	1
+	D6dOgInD6hQs	3
+	DizInD6baks	1
+	Enib3dizInh(	1
+	INInD6s	1
+	INInhQs	1
+	INdOgInD6hQs	1
+	In6baks	1
+	In6c*	3
+	In6keG	1
+	InD*	51
+	InD6b&TtAb	2
+	InD6baks	11
+	InD6hQs	13
+	InD6k#	6
+	InD6kAp	1
+	InD6sk9	1
+	Indez	1
+	InhIzh&nd	2
+	WAtElsIzInD*	1
+	WAtsInD*	8
+	bAbLzInhIzb&T	1
+	brINyuInD6keG	1
+	flotInD6*	1
+	g6n6gob&kInD6hQs	1
+	g6n6pUtItInhIzhQs	1
+	goInD6kIc~	1
+	h&vtupUSD6dOgIns6mm%	1
+	h3GusInD6bol	1
+	hulIvzIn6	1
+	kAmInm9keG	1
+	kAmzInbOlz	1
+	pUShIzhEdIn	1
+	pUtItInoke	1
+	pUty)fINgRInD6hol	2
+	skulInD6m%nIN	1
+	stAkIn	1
+	swImInh3lek	1
+	tItApIny)	1
+	tOkInh(	1
+	wir9dInD6strolR	1
+	y)dAkIzInD6k#wil	1
+	y)drAmInD6p6red	1
+	y)nat&tOlIntr6stIdIn	1
+	yuwan6pUtItb&kInD6baks	1
+Indi~:
+	6nIndi~	1
+Intr6stId:
+	y)nat&tOlIntr6stIdIn	1
+Intu:
+	yuTINkhik6dtOkIntu	1
+It:
+	&zf#&zItgoz	2
+	&zop~&zItgoz	1
+	6fred6vIt	1
+	9dId~tTINkItwUd	1
+	9etItOl	1
+	9lduIt	1
+	9noyuhetIt	1
+	9tUkIt	1
+	9wISItw36	1
+	AnzIpIt	5
+	D6leditUkIt	1
+	INIz~tIt	1
+	IfyuSUditIthAni	1
+	ItEniW*	1
+	ItEnibIgR	1
+	ItIz6	2
+	ItIzAn	1
+	ItdAz~t	9
+	Ith(	1
+	Itmeks	1
+	Its	1
+	ItstIksanh(	1
+	IzIt	45
+	SLwit9It	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	TroIt	2
+	W*ItbIlON	1
+	W*Itgoz	1
+	W*dIdItgo	5
+	WAtIzIt	42
+	WAtsIt	3
+	bIldIt	3
+	bIts6vIt	1
+	brekIt	2
+	cuIt	1
+	dIdIt	1
+	draptIt	3
+	fIksIt	3
+	fidIt	1
+	g6n6pUtItInhIzhQs	1
+	gEtINItrili	1
+	gEtIt	15
+	gatOlstimkAmINOf6vIt	1
+	h&v6batMdAzIt	1
+	h(t3nItan	1
+	h(zD6rEst6vIt	1
+	k&cIt	1
+	k&nItAn	1
+	k&nwiholdIt	1
+	klozIt	5
+	lIftItAp	3
+	luzIt	1
+	mipUtItan	1
+	op~ItAp	1
+	pUlIt	8
+	pUlItQt	2
+	pUtItInoke	1
+	r&bIt	1
+	sIt	3
+	sl9dItTru	1
+	st&ndanD&tItm9tbrek	1
+	stIkItanh(	1
+	stIkItantuD*	1
+	tItApIny)	1
+	tekIt	2
+	tekItOfhIzSoldRz	1
+	tekItQt	4
+	tr9It	4
+	w3kIz~tIt	1
+	wilpUtItb&kovRh(	1
+	yuditIt	1
+	yufQndIt	1
+	yugatIt	1
+	yuh&vtupUtItTruD	1
+	yuh&vtusl9dItTruD	1
+	yuitIt	2
+	yulUk&tIt	1
+	yum9trIpIt	1
+	yunakItovR	1
+	yunaktItovR	3
+	yupIkItQt	1
+	yustr&pItyugo	1
+	yuwan6pUtItb&kInD6baks	1
+	yuwan6tr9It	1
+	yuwonttekItOf	1
+	zIpItAp	10
+Its:
+	Its6bAni	1
+	Its6h&t	1
+	Its6pIg	2
+	ItsOlgOn	3
+	Itsso	2
+	duyuTINkIts	1
+Iz:
+	D6EmIz	1
+	D6b6rEtIz	1
+	DIsIz6	21
+	EfIzf%	2
+	EksIzf%z9l	1
+	ElIzf%lEm~	1
+	EmIzf%	1
+	EnIzf%	1
+	EsIzf%	2
+	ItIz6	2
+	ItIzAn	1
+	Iz#frEndpitR	1
+	IzD&t	127
+	IzD6dOgzhQs	1
+	IzD6wehigoz	1
+	IzDIs6	3
+	IzIt	45
+	IzSianD6fon	1
+	IzanD6peG	1
+	Izf%drAm	1
+	Izf9R	1
+	Izh(	2
+	IzhIznoz	1
+	Izhi	28
+	W*IzD6rEst6vy)	1
+	W*IzSi	3
+	W*Izhi	9
+	WAtElsIzInD*	1
+	WAtIzIt	42
+	dAbLyuIzf%weg~	1
+	eIzf%	12
+	ecIzf%	1
+	hIzTAmIz	1
+	iIzf%Eg	2
+	kyuIzf%	1
+	kyuIzf%kwIlts	1
+	m9nemIz	2
+	m9v7sIz	1
+	oIzf%Any~	1
+	piIzf%pent	1
+	y)dAkIzInD6k#wil	1
+	y)dOgznemIzskubi	1
+	yuIzf%AmbrEl6	1
+Iz~t:
+	INIz~tIt	1
+	Iz~tD&tn9s	3
+	Iz~thi	2
+	w3kIz~tIt	1
+Of:
+	9TOtyuw3goINtutekhIzklozOf	1
+	gatOlstimkAmINOf6vIt	1
+	hifElOf	1
+	kAmOf	10
+	tekDEmOf	1
+	tekItOfhIzSoldRz	1
+	tekOfhIzSoldRz	1
+	tekOfm9	2
+	y)sakOf	1
+	y)tr9INtutekhIzklozOf	1
+	yuwonttekItOf	1
+OfIs:
+	&th3OfIs	2
+Ofli:
+	y)6nOflism#t	1
+Of~:
+	zOf~	1
+Ol:
+	9etItOl	1
+	D*Ol	3
+	ItsOlgOn	3
+	OlgOn	15
+	Olr9t	70
+	gEtAsOld3ti	1
+	gatOl6v	1
+	gatOlstimkAmINOf6vIt	1
+	hik&ntOkOl	1
+	hik&ntkAmOlD6weQt	2
+	rId6vOl	1
+	sOl6v	3
+	w(OldAn	2
+	widIdDEmOl	1
+	wih&vOl6v	1
+	y)OldAn	1
+	y)nat&tOlIntr6stIdIn	1
+QL:
+	6nQL	3
+Qt:
+	6w3kQt	1
+	9mQt	1
+	D6fudQt6vD6s(iL	1
+	W99k&ntgEtQt	1
+	b6rEtQt	1
+	g6n6tekD6dOgQt	1
+	gEtINQt	3
+	hik&ngEtQt	2
+	hik&ntkAmOlD6weQt	2
+	hikemQt	1
+	kAmINQt6v	2
+	kAmQt	22
+	lEtINyuQt	1
+	lEtmiQt	31
+	pUlItQt	2
+	papQt	2
+	rAnQt6v	1
+	stIlQt	1
+	tekD6dOgQt	1
+	tekD6dOgiQt	2
+	tekItQt	4
+	tugoQtD6frAntwe	1
+	wacQtD*g6n6fOlovR	1
+	wan6kAmQt	2
+	y)tekD6dOgQt6vD6hQs	1
+	yupIkItQt	1
+	yust#tQt	1
+S&do:
+	9S&do	1
+S3:
+	#yuS3	1
+S3t:
+	&zy)S3t	1
+	b7zpUtINanhIzS3t	1
+	hIzS3t	1
+SL:
+	SL9	3
+	SLwi	7
+	SLwifInIS	1
+	SLwipUthIz#mz	1
+	SLwit9It	1
+SUd:
+	9SUdit	1
+	IfyuSUditIthAni	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	yuSUdrEk6gn9z	1
+Si:
+	D*Si	1
+	IzSianD6fon	1
+	SiduIN	11
+	Sih&pi	1
+	Sih&z(fonzan	1
+	Sih&zh3p6G&m6zan	1
+	Sik&nh(	1
+	Sik&nt	1
+	Sisizy)pEnsL	1
+	W*IzSi	3
+	dIdSi	6
+	h(Si	3
+	sozSi	1
+Siz:
+	Sizgat	3
+	Sizh&vINti	2
+	SizridIN	1
+	SizstIl	1
+So:
+	Somi	2
+	bEtRD&n9k&nSoyu	1
+	yuSomi	1
+SoIN:
+	y)SoIN	1
+SoldRz:
+	tekItOfhIzSoldRz	1
+	tekOfhIzSoldRz	1
+Su:
+	D6Su	2
+	SuSu	2
+	hIzADRSu	2
+	hIzSu	2
+	m9Su	2
+	t9D6b7zSu	1
+	y)Su	1
+	y)SuovR	1
+T&Nk:
+	T&Nkyu	64
+TAm:
+	W*zy)TAm	1
+	fIksy)TAm	1
+	hIzTAmIz	1
+	y)TAm	1
+TIN:
+	D6rONTIN	1
+	h3letIstfevrItTIN	1
+TINk:
+	9TINk	47
+	9TINk9	2
+	9dId~tTINkItwUd	1
+	TINkyu	2
+	TINkyuk&nric	1
+	duyuTINk	14
+	duyuTINkIts	1
+	yuTINkhik6dtOkIntu	1
+TOt:
+	9TOtyuw3goINtutekhIzklozOf	1
+	yuTOtyuh&dTron	1
+Tri:
+	s3Trib&gz	1
+Triz:
+	tuTriz	1
+Tro:
+	TroIt	2
+	yuTrorili	1
+Tron:
+	yuTOtyuh&dTron	1
+Trot:
+	m9Trot	1
+Tru:
+	goTruD&tbrIG	1
+	sl9dItTru	1
+	yuh&vtupUtItTruD	1
+	yuh&vtusl9dItTruD	1
+W*:
+	W*#	1
+	W*#D6	8
+	W*#hIz	1
+	W*#hIz9z	3
+	W*#y)	1
+	W*#yu	5
+	W*#yug6n6go	1
+	W*ItbIlON	1
+	W*Itgoz	1
+	W*IzD6rEst6vy)	1
+	W*IzSi	3
+	W*Izhi	9
+	W*W*	6
+	W*dIdItgo	5
+	W*dIdwisi6muvi	1
+	W*hiwUdsItIfhikem	1
+	W*y)	1
+	W*yu	3
+	hugozW*	1
+W*z:
+	W*z#bot	2
+	W*zD	41
+	W*zD6b7	3
+	W*zD6dOgi	9
+	W*zhIz	2
+	W*zhIztAN	1
+	W*zhIztel	1
+	W*zy)TAm	1
+	W*zy)rIN	3
+	W*zy)rIst	1
+	W*zy)tAN	2
+W9:
+	W99k&ntgEtQt	1
+	W9dontwi	1
+WAt:
+	WAt#yug6n6du	8
+	WAtEls	29
+	WAtElsIzInD*	1
+	WAtElsdAzhi	3
+	WAtIzIt	42
+	WAtduyuse	3
+	WAts	1
+WAts:
+	WAtsD&t	221
+	WAtsDIs	130
+	WAtsInD*	8
+	WAtsIt	3
+WEn:
+	WEnhigozf%6wOk	1
+	WEnhiweksAp	1
+	WEnwigo	1
+	WEnwigotuD6bic	1
+	WEny)dAn	1
+	WEnyuslip	1
+	WEnyutek	1
+	kAmz6rQndWEn	2
+WIc:
+	WIcwe	1
+Wel:
+	Welanh(goz	1
+an:
+	6sakan	1
+	6tQRanD	1
+	9h&v6nEklIsan	2
+	9pUldanD6	1
+	D*z6dOganDIspeG	1
+	D*z6n&lf6bEtanh(	1
+	D6klaktIksan	1
+	D6lItLc9ldh&zan6bIb	1
+	D6sONzanD	1
+	D6telanD6k9t	1
+	DesteanD6	1
+	GEsianD6	1
+	ItstIksanh(	1
+	IzSianD6fon	1
+	IzanD6peG	1
+	Sih&z(fonzan	1
+	Sih&zh3p6G&m6zan	1
+	Welanh(goz	1
+	an&nizni	2
+	anD6fl%	6
+	anD6fon	11
+	anhIzniz	4
+	anhIzp&nts	2
+	antap	24
+	any)hEd	2
+	b7zpUtINanhIzS3t	1
+	bOlzanstrINz	1
+	f%6wOkanD6	1
+	gat6pian	1
+	gatEl6f6ntsan	1
+	gatan	2
+	goanvekeS~	1
+	gozanD*	1
+	h&Nan6sEk	1
+	h(t3nItan	1
+	hik&nsItany)	1
+	kAman	8
+	l9dQnan	1
+	lAvan	1
+	m%nINanD6we	1
+	m%nINanD6weh(	1
+	m9tbiiziRan	1
+	mQsan	1
+	mipUtItan	1
+	p&ntsan	2
+	s&tan6wOl	1
+	s&tanD6wOl	1
+	sItINanD6h%	1
+	sanD*	1
+	sanD6fUt	1
+	siEniTINanDIspeGyu	1
+	st&ndanD&tItm9tbrek	1
+	stIkD&tanD*	1
+	stIkItanh(	1
+	t3nhImanhIztAmi	1
+	tOkanD6	3
+	tl9kanD6m&sp9k	1
+	trIpanhIz	1
+	tusAmbadianD6fon	1
+	tusItanD6wOl	1
+	w*INanhIzfit	2
+	wOkINanD6tebL	1
+	wOkanD6tebL	2
+	y)tOkINtuanD6fon	1
+	yug6n6tOkanD6	1
+	yup&tmianD6noz	1
+	yutOkINanD6fon	1
+	yuwan6pUtanD6tap	1
+	zan	8
+	zgat6m9kan	1
+antu:
+	stIkItantuD*	1
+b&T:
+	D6b7ztekIN6b&T	1
+	bAbLzInhIzb&T	1
+	tekIN6b&T	1
+	tekIN6b&Tr9t	1
+b&TtAb:
+	InD6b&TtAb	2
+b&d:
+	b&dwi	1
+b&gz:
+	s3Trib&gz	1
+b&k:
+	D6t7zb&k&n	1
+	g6n6gob&kInD6hQs	1
+	wilpUtItb&kovRh(	1
+	yuwan6pUtItb&kInD6baks	1
+b&t:
+	6b&t	1
+b(d:
+	ib(d	1
+b3Tde:
+	y)b3Tde	6
+b3d:
+	6b3d	13
+b3di:
+	D6b3di	1
+b3diz:
+	D6b3diz	1
+	Enib3dizInh(	1
+	ntb3diz	1
+b3dz:
+	Diz#b3dz	1
+b6loni:
+	h&m%b6loni	1
+b6lun:
+	6b6lun	8
+b6rEt:
+	D6b6rEtIz	1
+	b6rEtQt	1
+b7:
+	6b7	15
+	D6b7	27
+	D6lItLb7	1
+	W*zD6b7	3
+	b7wUd	1
+	p)b7	1
+b7z:
+	D6b7znemm#ko	1
+	D6b7zt3n	4
+	D6b7ztekIN6b&T	1
+	D6b7ztuhEvi	1
+	b7z#D*	1
+	b7zpUtINanhIzS3t	1
+	t9D6b7zSu	1
+b9:
+	b9b9	104
+	b9d&d	1
+	gUdb9	14
+	kAvRdApb9h*	1
+	y)seINb9tuD	1
+b9t:
+	tub9t	2
+bAbLz:
+	bAbLzInhIzb&T	1
+bAni:
+	Its6bAni	1
+bAtR:
+	6pinAtbAtR	1
+bEd:
+	6bEd	1
+	D6pApizbEd	1
+	hIzbEd	3
+bEdrum:
+	y)bEdrum	1
+bEdsprEd:
+	y)bEdsprEd	1
+bEl:
+	r&ND6bEl	1
+bEst:
+	D6bEst	5
+bEt:
+	9bEt	5
+bEtR:
+	bEtRD&n9k&nSoyu	1
+bIb:
+	6rEdbIb	1
+	D6lItLc9ldh&zan6bIb	1
+bIg:
+	hih&z6bIgtAN	1
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+	tek6bIgbot	1
+bIgR:
+	6bIgR	1
+	ItEnibIgR	1
+bIh9nd:
+	dINbIh9nd	1
+bIkAz:
+	bIkAzDe	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+bIlON:
+	W*ItbIlON	1
+bIld:
+	bIldIt	3
+bIt:
+	s6lItLbIt	1
+bIts:
+	bIts6vIt	1
+bItwin:
+	Ifyuh&vt9mbItwinfon	1
+bOl:
+	6bOl	6
+	D6bOl#D6sem	1
+bOlz:
+	bOlz6v	2
+	bOlzanstrINz	1
+	kAmzInbOlz	1
+bUk:
+	D6bUk	28
+	lUk&tD6bUk	7
+	y)bUk&t	1
+baks:
+	6lAncbaks	1
+	DizInD6baks	1
+	In6baks	1
+	InD6baks	11
+	yumIstD6baks	1
+	yuwan6pUtItb&kInD6baks	1
+batM:
+	D6batM	1
+	h&v6batMdAzIt	1
+bebi:
+	D*zD6bebi	1
+	D6bebi	8
+bebiz:
+	y)bebizh*	2
+bi:
+	D6ebisiz	1
+	bi6pis6vstek	1
+	bicenGd	1
+	bitusmOlf%	1
+	debisiz	1
+	ebi	1
+	ebisidi	1
+	ebisiz	4
+	gat6nebi	1
+	hik6dbi	1
+	k6dbi	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	m9tbi	1
+	m9tbih&vINtrAbL	1
+	m9tbiiziRan	1
+	mAstbik&cIN	1
+	sINebi	1
+	yum9tbi	1
+bic:
+	D6bic	1
+	WEnwigotuD6bic	1
+binz:
+	Gef%GElibinz	1
+bo:
+	6bo	1
+bol:
+	6bol6v	2
+	6bol6vmAS	1
+	D*zD6bol	1
+	D6bolOl	1
+	h3GusInD6bol	1
+bot:
+	6bot	3
+	W*z#bot	2
+	tek6bIgbot	1
+boz:
+	t9s6mboz	1
+brADR:
+	y)brADR	2
+brAS:
+	brASy)h*	4
+brEkf6st:
+	h&dy)brEkf6st	1
+	h&v6pis6vstekf%brEkf6st	1
+brIG:
+	6brIG	4
+	goTruD&tbrIG	1
+	wik6dmek6brIG	1
+brIN:
+	brINGek	1
+	brINyuInD6keG	1
+	mamwIlbrIN	1
+brek:
+	brekIt	2
+	m9kwIlbrek	1
+	st&ndanD&tItm9tbrek	1
+c*:
+	In6c*	3
+	fr6my)c*	1
+c9ld:
+	D6lItLc9ldh&zan6bIb	1
+cIldr~:
+	D*zs6mcIldr~	1
+	D6cIldr~	3
+cenG:
+	cenGhIzd9pRz	1
+	cenGy)d9pR	2
+cenGd:
+	bicenGd	1
+ciks:
+	y)ciks	2
+cu:
+	cuIt	1
+d%:
+	6d%	3
+	D6d%	52
+	IND6d%	2
+	klozD6d%	28
+	m9d%	4
+d&d:
+	b9d&d	1
+d&d&:
+	h9d&d&	1
+d&diz:
+	d&diznath(	1
+d&n:
+	d&pRd&n	3
+d&pR:
+	d&pRd&n	4
+d3t:
+	DedIgD6d3tAp	1
+d3ti:
+	gEtAsOld3ti	1
+d9L:
+	6d9L	1
+d9pR:
+	cenGy)d9pR	1
+	h&v6d9pRh(	1
+	k6dwiyuzf%6d9pR	1
+d9pRz:
+	cenGhIzd9pRz	1
+dAbLyu:
+	dAbLyuIzf%weg~	1
+dAk:
+	6dAk	15
+	y)dAkIzInD6k#wil	1
+dAmpti:
+	hAmptidAmpti	14
+dAn:
+	WEny)dAn	1
+	w(OldAn	2
+	y)OldAn	1
+	y)dAnwIT	5
+	yudAnwIT	1
+dAz:
+	WAtElsdAzhi	3
+	dAzD&t	8
+	dAzD6dOgi	4
+	dAzhi	18
+	h&v6batMdAzIt	1
+dAz~t:
+	ItdAz~t	9
+dId:
+	9dId	2
+	W*dIdItgo	5
+	W*dIdwisi6muvi	1
+	dIdD6	2
+	dIdIt	1
+	dIdSi	6
+	dIdmamk&c	1
+	dIdyu	47
+	dIdyuh&v6	1
+	dIdyunakDEmovR	1
+	sodIdDiz	1
+	widIdDEmOl	1
+	yudId	17
+dId~t:
+	9dId~tTINkItwUd	1
+	D*#s6mm%peGIzwidId~tsi	1
+dIfr~s:
+	dIfr~stuyu	1
+dIfr~t:
+	dIfr~tfr6my)	1
+	sAmTINdIfr~t	2
+dIg:
+	DedIgD6d3tAp	1
+dIz3t:
+	dIz3t&t	1
+dOg:
+	6dOg	40
+	D*z6dOganDIspeG	1
+	D6dOgInD6hQs	3
+	INdOgInD6hQs	1
+	dOghQs	4
+	g6n6tekD6dOgQt	1
+	h&vtupUSD6dOgIns6mm%	1
+	tekD6dOgQt	1
+	y)g6n6pUtD6dOg	1
+	y)tekD6dOgQt6vD6hQs	1
+dOgi:
+	6dOgi	16
+	D6dOgi	41
+	W*zD6dOgi	6
+	dAzD6dOgi	4
+	pUtD6dOgi	15
+	tekD6dOgiQt	2
+	tuD6dOgi	3
+dOgz:
+	D6dOgz9z	1
+	D6dOgzhQs	4
+	IzD6dOgzhQs	1
+	y)dOgznemIzskubi	1
+dQn:
+	dQnh(	5
+	fOldQn	7
+	l9dQnan	1
+	sItdQn	18
+daktR:
+	D6daktR	1
+dal:
+	6dal	7
+	miD6dal	1
+	wantD6dal	1
+dali:
+	D6dali	5
+	y)dali	1
+daliz:
+	D6daliz	3
+dalz:
+	y)dalz&thom	1
+dez:
+	Indez	1
+dezi:
+	6dezi	1
+di:
+	ebisidi	1
+dont:
+	W9dontwi	1
+dr9v:
+	yudr9vD6k#	1
+drAm:
+	6drAm	2
+	Izf%drAm	1
+	f&nsidrAm	1
+	y)drAmInD6p6red	1
+drAmz:
+	y)drAmz&t	1
+drEs:
+	y)drEs	1
+drEst:
+	minzw3kgEtINdrEst	1
+drINk:
+	drINkApy)	3
+drapt:
+	draptIt	3
+	yudrapty)	1
+drov:
+	hudrov	1
+du:
+	9lduIt	1
+	WAt#yug6n6du	8
+	WAtduyuse	3
+	duDe	5
+	duwIT	15
+	duwITDIs	1
+	duwi	7
+	duyu	131
+	duyuTINk	14
+	duyuTINkIts	1
+	duyusi	38
+	duyuwant	43
+	g6n6du	1
+	tuduwITD&t	1
+	wik&ndu	1
+	yudu	14
+duIN:
+	#yuduIN	20
+	D6k&tduIN	2
+	SiduIN	11
+	hiduIN	12
+	y)duIN	4
+e:
+	6ne	4
+	D6ebisiz	1
+	debisiz	1
+	eIzf%	7
+	ebi	1
+	ebisidi	1
+	ebisiz	4
+	gat6nebi	1
+	sINebi	1
+ec:
+	ec9	1
+	ecIzf%	1
+et:
+	9etItOl	1
+	D*#et	2
+f#:
+	&zf#&z	2
+	&zf#&zItgoz	2
+	f#6lON	1
+f%:
+	6Eff%	1
+	D6zif%zIpIN	1
+	EfIzf%	2
+	EksIzf%z9l	1
+	ElIzf%lEm~	1
+	EmIzf%	1
+	EnIzf%	1
+	EsIzf%	2
+	Gef%GElibinz	1
+	INf%	4
+	INf%D	1
+	Izf%drAm	1
+	WEnhigozf%6wOk	1
+	bitusmOlf%	1
+	dAbLyuIzf%weg~	1
+	eIzf%	12
+	ecIzf%	1
+	f%6klaks	1
+	f%6wOk	3
+	f%6wOkanD6	1
+	f%6wOkso	1
+	f%As	2
+	f%mi	9
+	f%yu	14
+	gof%6wOk	5
+	h&v6pis6vstekf%brEkf6st	1
+	h(zs6mfudf%letR	1
+	iIzf%Eg	2
+	k6dwiyuzf%6d9pR	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+	kef%kIt~	1
+	kyuIzf%	1
+	kyuIzf%kwIlts	1
+	nemf%	1
+	oIzf%Any~	1
+	piIzf%pent	1
+	sEmf%	2
+	sf%	1
+	tif%	1
+	y)lUkINf%D	1
+	y)strolRf%6r9d	1
+	yuIzf%AmbrEl6	1
+	yulUkINf%D	1
+	yumedf%mAmil&st	1
+	zif%zIpIN	1
+f%ti:
+	f%tipisIz	1
+f&nsi:
+	f&nsidrAm	1
+f&st:
+	rilif&st	1
+f3i:
+	6f3ifes	1
+f3st:
+	AnzIpDEmf3st	1
+f6roS6s:
+	6f6roS6s	1
+	9m6f6roS6s	1
+f9R:
+	6f9REnG~	1
+	Izf9R	1
+f9nd:
+	nEvRf9nd	1
+	wik&nf9nd	5
+	yuf9nd	1
+fAni:
+	zfAni	2
+fEl:
+	DefElovR	1
+	hifElOf	1
+	sfElovR	1
+fINgR:
+	hIzfINgR	4
+	pUty)fINgRInD6hol	2
+	y)fINgR	12
+	yupUty)fINgR	5
+fISIN:
+	DevgatnufISINpolz	1
+	gofISIN	2
+fIks:
+	fIksIt	3
+	fIksy)TAm	1
+fInIS:
+	SLwifInIS	1
+fOl:
+	fOldQn	7
+	wacQtD*g6n6fOlovR	1
+fOlIN:
+	m9p&nts#fOlIN	1
+fQnd:
+	9fQnd	6
+	yufQndIt	1
+fUl:
+	fUl6vpoziz	1
+fUt:
+	6fUt	1
+	sanD6fUt	1
+	y)fUt	4
+fes:
+	6f3ifes	1
+	h&vEnifes	1
+	hIzfes	5
+	skr&cifes	20
+	wITnofes	1
+	zfes	5
+fevrIt:
+	h3letIstfevrItTIN	1
+	y)fevrIt	8
+	yut3ndr9ttuD6fevrIt	1
+fid:
+	fidD6	4
+	fidIt	1
+	fidy)	2
+fit:
+	w*INanhIzfit	2
+	y)fit	1
+fl%:
+	anD6fl%	6
+fl9:
+	Defl9	1
+flQR:
+	6flQR	5
+	6prItiflQR	1
+flot:
+	flotInD6*	1
+fon:
+	6fon	6
+	9lAvhQyuholdD6fon	1
+	Ifyuh&vt9mbItwinfon	1
+	IzSianD6fon	1
+	anD6fon	11
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	tusAmbadianD6fon	1
+	y)fon&t	1
+	y)tOkINtuanD6fon	1
+	yutOkINanD6fon	1
+	yuzD6fon	1
+fr6m:
+	dIfr~tfr6my)	1
+	fr6my)c*	1
+	kQntDEmfr6mh(	1
+	st#tfr6m	4
+frAnt:
+	tugoQtD6frAntwe	1
+frAstretIN:
+	s%t6vfrAstretIN	1
+frEnd:
+	Iz#frEndpitR	1
+frEndz:
+	y)frEndz	3
+fud:
+	D6fudQt6vD6s(iL	1
+	h(zs6mfudf%letR	1
+g3l:
+	D&ts6gUdg3l	5
+g6n6:
+	9mg6n6	18
+	W*#yug6n6go	1
+	WAt#yug6n6du	8
+	g6n6du	1
+	g6n6gob&kInD6hQs	1
+	g6n6pUtItInhIzhQs	1
+	g6n6tekD6dOgQt	1
+	wacQtD*g6n6fOlovR	1
+	y)GAstg6n6it	1
+	y)g6n6	23
+	y)g6n6pUt	5
+	y)g6n6pUtD6dOg	1
+	y)g6n6tOk	2
+	yug6n6tOkanD6	1
+g9:
+	g99rili	1
+gEs:
+	9gEs	7
+gEt:
+	9gEt	2
+	9lgEt	7
+	W99k&ntgEtQt	1
+	gEtAsOld3ti	1
+	gEtD6	5
+	gEtIt	15
+	gEthIm	5
+	gEtm9noz	1
+	hik&ngEtAp	1
+	hik&ngEtQt	2
+	yugEt	2
+gEtIN:
+	gEtINItrili	1
+	gEtINQt	3
+	minzw3kgEtINdrEst	1
+	y)gEtIN	1
+gOn:
+	ItsOlgOn	3
+	OlgOn	15
+	hizgOn	6
+gUd:
+	D&ts6gUdg3l	5
+	gUdb9	14
+gat:
+	9gat	12
+	9vgat	2
+	9vgaty)	1
+	DevgatnufISINpolz	1
+	Sizgat	3
+	gat6nebi	1
+	gat6pian	1
+	gatEl6f6ntsan	1
+	gatOl6v	1
+	gatOlstimkAmINOf6vIt	1
+	gatan	2
+	higat	1
+	hizgat	7
+	nEvRgat6	1
+	wigat	5
+	wivgat	1
+	yugat	10
+	yugatIt	1
+	yugatm9noz	1
+	yugatm9tAN	1
+	yugatyugatyu	2
+	yuvgat	2
+	yuvgatplEnti6vt7z	1
+	zgat6m9kan	1
+gat~:
+	gat~strONR	1
+go:
+	&zsun&zyugotuskul	1
+	D*wigo	5
+	D*yugo	17
+	W*#yug6n6go	1
+	W*dIdItgo	5
+	WEnwigo	1
+	WEnwigotuD6bic	1
+	g6n6gob&kInD6hQs	1
+	go6hEd	19
+	goInD6kIc~	1
+	goTruD&tbrIG	1
+	goanvekeS~	1
+	gof%6wOk	5
+	gofISIN	2
+	goletR	1
+	goovRD6#m	1
+	gotuslip	7
+	h(wigo	6
+	lEtgo	2
+	tugoQtD6frAntwe	1
+	wantstugo	1
+	yugo	1
+	yugorQnd&ndrQnd	1
+	yuh&vtugo	1
+	yustr&pItyugo	1
+goIN:
+	9TOtyuw3goINtutekhIzklozOf	1
+goz:
+	&zf#&zItgoz	2
+	&zop~&zItgoz	1
+	D*higoz	6
+	D6liSgozIns	1
+	IzD6wehigoz	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	W*Itgoz	1
+	WEnhigozf%6wOk	1
+	Welanh(goz	1
+	gozanD*	1
+	gozh(	1
+	h(higoz	2
+	hugozW*	1
+gr&b:
+	wetgr&b	1
+gr&mpa:
+	%gr&mpa	1
+gr&nmaz:
+	&tgr&nmaz	1
+gret:
+	h&d6gret	1
+h&N:
+	h&NAp	5
+	h&Nan6sEk	1
+h&d:
+	h&d6gret	1
+	h&dy)brEkf6st	1
+	k6dIfwih&d	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	yuTOtyuh&dTron	1
+	yuh&d	4
+	yuvh&dk*6ts	1
+h&m:
+	h&m%b6loni	1
+h&nd:
+	6h&nd	2
+	InhIzh&nd	2
+	hIzh&nd	3
+	y)h&nd	36
+h&ndz:
+	INh&ndz	2
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+h&pi:
+	Sih&pi	1
+h&t:
+	6h&t	2
+	Its6h&t	1
+	hIzh&t	1
+h&v:
+	9h&v6nEklIsan	2
+	9h&vtulIftD6mit	1
+	Ifyuh&vt9mbItwinfon	1
+	dIdyuh&v6	1
+	h&v6batMdAzIt	1
+	h&v6d9pRh(	1
+	h&v6mQT	1
+	h&v6pis6vstekf%brEkf6st	1
+	h&vEnifes	1
+	h&vtupUSD6dOgIns6mm%	1
+	suzih&v6	2
+	wih&v	16
+	wih&vOl6v	1
+	yuh&vtuAnzIp	1
+	yuh&vtugo	1
+	yuh&vtupUtItTruD	1
+	yuh&vtusl9dItTruD	1
+	yuyuZw6lih&v6s	1
+h&vIN:
+	Sizh&vINti	2
+	m9tbih&vINtrAbL	1
+h&z:
+	D6lItLc9ldh&zan6bIb	1
+	Sih&z(fonzan	1
+	Sih&zh3p6G&m6zan	1
+	hih&z6bIgtAN	1
+h(:
+	6vh(	5
+	Aph(	2
+	D*z6n&lf6bEtanh(	1
+	Enib3dizInh(	1
+	Ith(	1
+	ItstIksanh(	1
+	Izh(	2
+	Sik&nh(	1
+	Welanh(goz	1
+	d&diznath(	1
+	dQnh(	5
+	gozh(	1
+	h&v6d9pRh(	1
+	h(#	6
+	h(Si	3
+	h(h3	1
+	h(higoz	2
+	h(t3nItan	1
+	h(wigo	6
+	kAmh(	12
+	kQntDEmfr6mh(	1
+	lEtssItAph(	1
+	m%nINanD6weh(	1
+	ovRh(	11
+	r9th(	10
+	rEstD&t#h(	1
+	s#h(	1
+	s6mADRt7zh(	2
+	sovRh(	4
+	stIkItanh(	1
+	steh(	2
+	tOkInh(	1
+	wilpUtItb&kovRh(	1
+	zovRh(	1
+h(z:
+	h(zD6rEst6vIt	1
+	h(zs6mfudf%letR	1
+h*:
+	6h*	3
+	Enih*	1
+	brASy)h*	4
+	h3h*	1
+	hIzh*	17
+	kAvRdApb9h*	1
+	komy)h*	1
+	m9h*	4
+	somAch*	2
+	y)bebizh*	2
+	y)h*	3
+	yukomy)h*	2
+	zh*	28
+h3:
+	&th3OfIs	2
+	Sih&zh3p6G&m6zan	1
+	h(h3	1
+	h3GusInD6bol	1
+	h3h*	1
+	h3k&t	1
+	h3letIstfevrItTIN	1
+	h3nem	3
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	swImInh3lek	1
+	yusih3	1
+	zh3tep	1
+	zp&tINh3	1
+h3d:
+	9vh3d	1
+h3t:
+	yum9th3t	1
+h9:
+	h9d&d&	1
+	h9tumAm	3
+h9R:
+	DEmiv~h9R	1
+h9dIN:
+	9mh9dIN	2
+hANgri:
+	9mhANgri	16
+	9msohANgri	10
+	hANgrisItIN	1
+	yuhANgri	1
+	zhANgri	1
+hAmpti:
+	hAmptidAmpti	15
+hAni:
+	IfyuSUditIthAni	1
+hEd:
+	any)hEd	2
+	pUShIzhEdIn	1
+hElo:
+	sehElo	19
+hEvi:
+	D6b7ztuhEvi	1
+	stuhEvi	1
+	zhEvi	1
+hIm:
+	gEthIm	5
+	t3nhImanhIztAmi	1
+hIz:
+	6vhIzhQs	2
+	9TOtyuw3goINtutekhIzklozOf	1
+	Doz#hIz	2
+	DozhIz9z	1
+	DozhIzSules	1
+	InhIzh&nd	2
+	IzhIznoz	1
+	SLwipUthIz#mz	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	W*#hIz	1
+	W*#hIz9z	3
+	W*zhIz	2
+	W*zhIztAN	1
+	W*zhIztel	1
+	anhIzniz	4
+	anhIzp&nts	2
+	b7zpUtINanhIzS3t	1
+	bAbLzInhIzb&T	1
+	cenGhIzd9pRz	1
+	g6n6pUtItInhIzhQs	1
+	hIz(	7
+	hIz9z#klozd	1
+	hIzADRSu	2
+	hIzS3t	1
+	hIzSu	2
+	hIzTAmIz	1
+	hIzbEd	3
+	hIzfINgR	5
+	hIzfes	5
+	hIzh&nd	5
+	hIzh&t	1
+	hIzh*	17
+	hIzhQs	15
+	hIzmQT	16
+	hIznEk	3
+	hIznoz	1
+	hIztAN	17
+	hIztost	1
+	hQz6bQthIzzIp	1
+	pUShIzhEdIn	1
+	t3nhImanhIztAmi	1
+	tekItOfhIzSoldRz	1
+	tekOfhIzSoldRz	1
+	trIpanhIz	1
+	w*INanhIzfit	2
+	y)tr9INtutekhIzklozOf	1
+hQ:
+	9lAvhQyuholdD6fon	1
+	hQ#yu	11
+	hQmEni	39
+	hQold	2
+	hQsIli6vmi	1
+	hQsOft	1
+hQs:
+	#hQs	1
+	6hQs	5
+	6vhIzhQs	2
+	D6dOgInD6hQs	3
+	D6dOgzhQs	4
+	D6hQs	5
+	D6pApizhQs	2
+	INInhQs	1
+	INdOgInD6hQs	1
+	InD6hQs	13
+	IzD6dOgzhQs	1
+	dOghQs	4
+	g6n6gob&kInD6hQs	1
+	g6n6pUtItInhIzhQs	1
+	hIzhQs	15
+	hQstu	1
+	y)tekD6dOgQt6vD6hQs	1
+hQz:
+	hQz6bQthIzzIp	1
+hapskac:
+	hapskachapskacwi	2
+het:
+	9noyuhetIt	1
+hi:
+	ANkLm9ktoldmihiridyu6st%i	1
+	D*hi	23
+	D*higoz	6
+	IzD6wehigoz	1
+	Izhi	28
+	Iz~thi	2
+	W*Izhi	9
+	W*hiwUdsItIfhikem	2
+	WAtElsdAzhi	3
+	WEnhigozf%6wOk	1
+	WEnhiweksAp	1
+	dAzhi	18
+	h(higoz	2
+	hiduIN	12
+	hifElOf	1
+	higat	1
+	hih&z6bIgtAN	1
+	hik&c	1
+	hik&ngEtAp	1
+	hik&ngEtQt	2
+	hik&nsItany)	1
+	hik&ntOkOl	1
+	hik&ntkAmOlD6weQt	2
+	hik6dbi	1
+	hikAmz	1
+	hikemQt	1
+	him9t	4
+	histez	3
+	k&nhi	6
+	yuTINkhik6dtOkIntu	1
+hil:
+	hiltOk	1
+hiz:
+	hiz6mQs	2
+	hiz6wek	3
+	hizgOn	6
+	hizgat	7
+	hizitINp#t6vD6	1
+hol:
+	6hol	13
+	pUty)fINgRInD6hol	2
+hold:
+	9lAvhQyuholdD6fon	1
+	k&nwiholdIt	1
+hom:
+	wilIs~tu&thom	1
+	y)dalz&thom	1
+hop:
+	9hopD6	1
+hu:
+	hu#yu	10
+	hu#yukOlIN	1
+	hu&m9	2
+	hudrov	1
+	hugozW*	1
+	hukem	1
+	hulIvzIn6	1
+	hurili	1
+	hutUkAstuEm9ti	1
+	hutUkm9	1
+huz:
+	huzD&t	33
+i:
+	6ni	1
+	D6i	1
+	iIzf%Eg	2
+iDR:
+	D&tiDR	2
+it:
+	9SUdit	1
+	9lity)lEg	1
+	9m9tit	1
+	IfyuSUditIthAni	1
+	tuit	19
+	y)GAstg6n6it	1
+	yuditIt	1
+	yuit	3
+	yuitIt	2
+itIN:
+	hizitINp#t6vD6	1
+it~:
+	yuvit~	1
+iv~:
+	DEmiv~h9R	1
+iziR:
+	m9tbiiziRan	1
+k#:
+	6k#	1
+	D6k#	3
+	InD6k#	6
+	st#tD6k#	1
+	y)dAkIzInD6k#wil	1
+	yudr9vD6k#	1
+k%s:
+	6vk%s	1
+k&c:
+	dIdmamk&c	1
+	hik&c	1
+	k&cIt	1
+k&cIN:
+	mAstbik&cIN	1
+k&n:
+	9k&n	11
+	Sik&nh(	1
+	TINkyuk&nric	1
+	bEtRD&n9k&nSoyu	1
+	hik&ngEtAp	1
+	hik&ngEtQt	2
+	hik&nsItany)	1
+	hik&ntOkOl	1
+	k&n9	15
+	k&nD6	1
+	k&nItAn	1
+	k&nhi	6
+	k&ntAmbL	1
+	k&nwiholdIt	1
+	k&nyu	204
+	wik&n	3
+	wik&ndu	1
+	wik&nf9nd	5
+	yuk&n	69
+k&nt:
+	Sik&nt	1
+	W99k&ntgEtQt	1
+	hik&ntkAmOlD6weQt	2
+	yuk&nt	6
+k&pt~:
+	k&pt~krUnc	1
+k&sL:
+	D6k&sL	1
+k&t:
+	6k&t	15
+	D6k&tduIN	2
+	h3k&t	1
+k*6t:
+	6k*6t	1
+k*6ts:
+	yuvh&dk*6ts	1
+k6d:
+	9k6d	1
+	hik6dbi	1
+	k6d9	4
+	k6dIfwih&d	1
+	k6dbi	1
+	k6dwiyuzf%6d9pR	1
+	k6dyu	4
+	wik6d	1
+	wik6dmek6brIG	1
+	yuTINkhik6dtOkIntu	1
+	yuk6d	3
+k6d~t:
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+k9nd:
+	k9nd6v	25
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+k9ndz:
+	k9ndz6v	1
+k9t:
+	6k9t	3
+	D6telanD6k9t	1
+kAm:
+	hik&ntkAmOlD6weQt	2
+	kAmInm9keG	1
+	kAmOf	10
+	kAmQt	22
+	kAman	8
+	kAmh(	12
+	kAmovR	1
+	kAmtu#	1
+	wan6kAmQt	2
+kAmIN:
+	gatOlstimkAmINOf6vIt	1
+	kAmINQt6v	2
+kAmz:
+	D6tebLkAmz	1
+	hikAmz	1
+	kAmz&ftRo	2
+	kAmz6rQndWEn	2
+	kAmzInbOlz	1
+kAp:
+	6kAp	8
+	InD6kAp	1
+kAt:
+	tukAt	2
+kAvR:
+	D6kAvR	1
+kAvRd:
+	kAvRdApb9h*	1
+kIc~:
+	goInD6kIc~	1
+kIdz:
+	D6kIdz	3
+	tukIdz	1
+kIs:
+	6kIs	2
+	6n9skIs	1
+kIti:
+	6kIti	19
+kIt~:
+	6kIt~	2
+	D6kIt~	1
+	kef%kIt~	1
+kOlIN:
+	hu#yukOlIN	1
+	yukOlINsAmbadiAp	2
+kOt:
+	9kOt	2
+	yukOt	1
+kQ:
+	6kQ	16
+kQnt:
+	kQntDEmfr6mh(	1
+	yukQnt	6
+kUki:
+	6kUki	1
+ke:
+	kef%kIt~	1
+keG:
+	6vD6keG	1
+	In6keG	1
+	brINyuInD6keG	1
+	kAmInm9keG	1
+keks:
+	ntkeks	1
+kem:
+	W*hiwUdsItIfhikem	1
+	hikemQt	1
+	hukem	1
+	kem6p#t	1
+kiz:
+	#kiz	2
+kl9m:
+	kl9mAp	1
+klak:
+	D6klaktIksan	1
+klinIN:
+	y)klinIN	1
+klinR:
+	D*z#v&kyumklinR9noyu	1
+klinz:
+	klinzD	1
+kloz:
+	9TOtyuw3goINtutekhIzklozOf	1
+	9lklozm99z	1
+	klozD6d%	28
+	klozIt	5
+	y)tr9INtutekhIzklozOf	1
+	yuwan6kloz	2
+klozd:
+	hIz9z#klozd	1
+	klozdAp	1
+	steklozd	1
+	wiklozd	1
+	yuklozd	3
+kom:
+	6kom	4
+	komy)h*	1
+	y)kom	2
+	yukomy)h*	2
+kr9IN:
+	#yukr9IN	2
+krUnc:
+	k&pt~krUnc	1
+krak6d9l:
+	D6krak6d9l	2
+krim:
+	9skrim	4
+kwIlt:
+	6kwIltovR	1
+kwIlts:
+	kyuIzf%kwIlts	1
+kyu:
+	kyuIzf%	1
+	kyuIzf%kwIlts	1
+kyubz:
+	9skyubz	1
+l&st:
+	wisEdD6l&st	1
+	y)l&st	2
+	yumedf%mAmil&st	1
+l3nd:
+	yuvl3ndtuzIpletli	1
+l9:
+	l9dQnan	1
+l9k:
+	natl9k	3
+	tl9kanD6m&sp9k	1
+	yul9k	36
+	yul9kD6	7
+l9~:
+	6l9~	6
+lAnc:
+	6lAncbaks	1
+lAv:
+	9lAvEg	1
+	9lAvhQyuholdD6fon	1
+	9lAvyu	2
+	lAvD6	5
+	lAvan	1
+	lAvli	1
+lEg:
+	9lity)lEg	1
+	y)lEg	1
+lEm~:
+	6lEm~	1
+	ElIzf%lEm~	1
+lEt:
+	lEtAs	1
+	lEtgo	2
+	lEtmi	10
+	lEtmiQt	31
+	lEtmisi	1
+lEtIN:
+	lEtINyuQt	1
+lEtR:
+	6lEtR	3
+lEts:
+	lEtssItAph(	1
+	lEtssi	27
+lIft:
+	9h&vtulIftD6mit	1
+	lIftItAp	3
+	yulIft	3
+lIk:
+	lIkyu	3
+lIs~:
+	tulIs~	1
+	wilIs~tu&thom	1
+lItL:
+	D6lItLb7	2
+	D6lItLc9ldh&zan6bIb	1
+	s6lItLbIt	1
+lIvz:
+	hulIvzIn6	1
+lON:
+	sAclON(z	1
+lOst:
+	9lOstm9	1
+lUk:
+	IfwilUkril	1
+	lUk&t	83
+	lUk&tD6bUk	8
+	lUk&tDIs	40
+	yulUk&tIt	1
+lUkIN:
+	y)lUkINf%D	1
+	yulUkINf%D	1
+lalipap:
+	6lalipap&t	1
+lat:
+	6lat6v	9
+	lat6v	1
+lats:
+	lats6v	10
+ledi:
+	D6ledi	1
+	D6leditUkIt	1
+lediz:
+	D6lediz	2
+lek:
+	swImInh3lek	1
+len:
+	D6len	1
+lesIN:
+	6lesIN	1
+let:
+	#yulet&tskul	1
+letIst:
+	h3letIstfevrItTIN	1
+letR:
+	goletR	1
+	h(zs6mfudf%letR	1
+	yuletR	7
+letli:
+	yuvl3ndtuzIpletli	1
+liS:
+	D6liSgozIns	1
+liv:
+	yuliv	2
+luz:
+	luzIt	1
+m#ko:
+	D6b7znemm#ko	1
+m%:
+	#ntEnim%	1
+	D*#ntEnim%	2
+	D*#s6mm%peGIzwidId~tsi	1
+	D*wAzm%	1
+	D*zs6mm%	1
+	Enim%	7
+	h&vtupUSD6dOgIns6mm%	1
+	m%6v	1
+	s6mm%6v	1
+m%nIN:
+	m%nINanD6we	1
+	m%nINanD6weh(	1
+	skulInD6m%nIN	1
+m&GIk:
+	pitRm&GIk	1
+m&c:
+	Dem&c	1
+m&n:
+	mAfInm&n	4
+m&s:
+	tl9kanD6m&sp9k	1
+m&tR:
+	D6m&tR	1
+m9:
+	6vm9stAm6k	1
+	9lOstm9	1
+	9lklozm99z	1
+	gEtm9noz	1
+	hutUkm9	1
+	kAmInm9keG	1
+	m9(z	2
+	m9Su	2
+	m9Trot	1
+	m9d%	4
+	m9h*	4
+	m9nemIz	2
+	m9noz	2
+	m9p&nts	2
+	m9p&nts#fOlIN	1
+	m9t3n	1
+	m9tAN	1
+	m9v7sIz	1
+	tekOfm9	2
+	yugatm9noz	1
+	yugatm9tAN	1
+	yuy)m9	1
+m9k:
+	ANkLm9ktoldmihiridyu6st%i	1
+	D6m9k	1
+	m9kwIlbrek	1
+	zgat6m9kan	1
+m9t:
+	9m9t	1
+	9m9tit	1
+	him9t	4
+	m9tbi	1
+	m9tbih&vINtrAbL	1
+	m9tbiiziRan	1
+	pepRpeGIzyum9t	1
+	st&ndanD&tItm9tbrek	1
+	yum9tbi	1
+	yum9th3t	1
+	yum9trIpIt	1
+mADRz:
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+mANki:
+	6mANki	6
+	y)mANki	2
+mAS:
+	6bol6vmAS	1
+mAc:
+	somAch*	2
+mAfIn:
+	mAfInm&n	4
+mAg:
+	%mAg	1
+	6mAg	1
+mAm:
+	h9tumAm	3
+mAmi:
+	yumedf%mAmil&st	1
+mAnT:
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+mAst:
+	mAstbik&cIN	1
+mAs~t:
+	wimAs~t	1
+mEni:
+	D*#tumEni	1
+	hQmEni	39
+	somEni	2
+	somEnit7z	2
+mIki:
+	mIkimQs	1
+mIsIz:
+	&tmIsIzf	1
+mIst:
+	wetwimIst6peG	1
+	wimIstEf	1
+	yumIst	1
+	yumIstD6baks	1
+mIstek:
+	9med6mIstek	1
+mIstrIs:
+	y)sAc6n9smIstrIs	1
+mIt~:
+	y)mIt~	1
+mQT:
+	h&v6mQT	1
+	hIzmQT	16
+	zmQT	1
+mQs:
+	6mQs	11
+	hiz6mQs	2
+	mIkimQs	1
+	mQsan	1
+mQsi:
+	6mQsi	3
+mam:
+	dIdmamk&c	1
+	mamwIlbrIN	1
+me:
+	me9	7
+	yume	1
+med:
+	9med6mIstek	1
+	yumed	1
+	yumed6	4
+	yumedf%mAmil&st	1
+mek:
+	wik6dmek6brIG	1
+mekIN:
+	y)mekIN	2
+meks:
+	&ntG&kimeks	1
+	Itmeks	1
+mi:
+	99mi	1
+	ANkLm9ktoldmihiridyu6st%i	1
+	Somi	2
+	f%mi	9
+	hQsIli6vmi	1
+	lEtmi	10
+	lEtmiQt	31
+	lEtmisi	1
+	miD6dal	1
+	mipUtItan	1
+	misIN	1
+	mitu	5
+	sINmi6sON	2
+	stumi	1
+	tElmi	16
+	wantmitu	20
+	yuSomi	1
+	yup&tmianD6noz	1
+min:
+	yumin	2
+minz:
+	minzw3kgEtINdrEst	1
+mit:
+	9h&vtulIftD6mit	1
+	mitD6	1
+	pis6vmit	4
+mun:
+	D6mun	6
+muvi:
+	6kw*iM&ndsOD6muvi	1
+	W*dIdwisi6muvi	1
+myuziM:
+	D6myuziM	1
+n&p:
+	6n&p	1
+n9s:
+	6n9skIs	1
+	Iz~tD&tn9s	3
+	y)sAc6n9smIstrIs	1
+n9t:
+	n9tn9t	60
+nAmbR:
+	6nAmbR	1
+nEk:
+	hIznEk	3
+nEklIs:
+	6nEklIs	1
+	9h&v6nEklIsan	2
+nEvR:
+	9nEvRsO	1
+	nEvRf9nd	1
+	nEvRgat6	1
+	yunEvRsO	1
+	yuvnEvRsin	1
+nQ:
+	okenQ	3
+nak:
+	dIdyunakDEmovR	1
+	nakDEmovR	2
+	yunakItovR	1
+nakt:
+	yunaktDEmovR	3
+	yunaktItovR	3
+nat:
+	d&diznath(	1
+	natl9k	3
+	y)nat&tOlIntr6stIdIn	1
+nem:
+	D6b7znemm#ko	1
+	D6nem6v	1
+	h3nem	3
+	m9nemIz	2
+	nemf%	1
+	y)dOgznemIzskubi	1
+	y)nem	24
+	y)nemsIndi	1
+ni:
+	an&nizni	2
+niz:
+	anhIzniz	4
+no:
+	9noyuhetIt	1
+	D*z#v&kyumklinR9noyu	1
+	wITnofes	1
+noz:
+	IzhIznoz	1
+	gEtm9noz	1
+	hIznoz	1
+	m9noz	2
+	y)noz	11
+	yugatm9noz	1
+	yup&tmianD6noz	1
+nu:
+	6nu	3
+	DevgatnufISINpolz	1
+o:
+	kAmz&ftRo	2
+	oIzf%Any~	1
+oke:
+	okenQ	3
+	pUtItInoke	1
+old:
+	hQold	2
+	oldvRGIny6	1
+	y)p)old	1
+on:
+	y)on	1
+op~:
+	&zop~&zItgoz	1
+	op~ItAp	1
+ovR:
+	6kwIltovR	1
+	DefElovR	1
+	INovR	5
+	dIdyunakDEmovR	1
+	goovRD6#m	1
+	kAmovR	1
+	nakDEmovR	2
+	ovRD*	5
+	ovRD6s	1
+	ovRh(	11
+	p9lovR	1
+	sfElovR	1
+	sovRD*	3
+	sovRh(	4
+	t3nDIspeGovR	1
+	tovR	1
+	wOkovR	1
+	wacQtD*g6n6fOlovR	1
+	wilpUtItb&kovRh(	1
+	wiskIptovR	1
+	y)SuovR	1
+	yunakItovR	1
+	yunaktDEmovR	3
+	yunaktItovR	3
+	zovRh(	1
+p#k:
+	D6p#k	1
+p#t:
+	hizitINp#t6vD6	1
+p&nts:
+	AnzIpD6p&nts	1
+	D6p&nts	2
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	anhIzp&nts	2
+	m9p&nts	2
+	m9p&nts#fOlIN	1
+	p&ntsan	2
+p&t:
+	p&tD6	27
+	yup&tmianD6noz	1
+p&tIN:
+	zp&tINh3	1
+p):
+	p)b7	1
+	y)p)old	1
+p*:
+	6p*	1
+p3s:
+	6p3s	1
+p6G&m6z:
+	Sih&zh3p6G&m6zan	1
+p6red:
+	y)drAmInD6p6red	1
+p9k:
+	tl9kanD6m&sp9k	1
+p9l:
+	6vDIsp9l	1
+	p9lovR	1
+pAp:
+	6pAp	1
+pApIt:
+	6pApIt	9
+pApi:
+	6pApi	5
+pApiz:
+	D6pApizbEd	1
+	D6pApizhQs	2
+pEnsL:
+	Sisizy)pEnsL	1
+pINk:
+	D6pINk	1
+pIg:
+	6pIg	6
+	Its6pIg	2
+pIk:
+	yupIkItQt	1
+pIkcR:
+	6pIkcR	1
+pUS:
+	h&vtupUSD6dOgIns6mm%	1
+	pUShIzhEdIn	1
+	ztupUS	1
+pUl:
+	pUlIt	8
+	pUlItQt	2
+pUld:
+	9pUldanD6	1
+pUt:
+	SLwipUthIz#mz	1
+	g6n6pUtItInhIzhQs	1
+	mipUtItan	1
+	pUtD6dOgi	15
+	pUtItInoke	1
+	pUty)fINgRInD6hol	2
+	wilpUtItb&kovRh(	1
+	y)g6n6pUt	5
+	y)g6n6pUtD6dOg	1
+	yuh&vtupUtItTruD	1
+	yupUty)fINgR	5
+	yuwan6pUtItb&kInD6baks	1
+	yuwan6pUtanD6tap	1
+pUtIN:
+	b7zpUtINanhIzS3t	1
+pap:
+	papQt	2
+pas6bli:
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+peG:
+	6peGD*	1
+	D*z6dOganDIspeG	1
+	IzanD6peG	1
+	siEniTINanDIspeGyu	1
+	t3nD6peG	12
+	t3nDIspeGovR	1
+	wetwimIst6peG	1
+	wiskIpt6peG	1
+peGIz:
+	D*#s6mm%peGIzwidId~tsi	1
+	D6peGIz	1
+	pepRpeGIzyum9t	1
+pent:
+	piIzf%pent	1
+pepR:
+	pepRpeGIzyum9t	1
+pi:
+	6pi	1
+	gat6pian	1
+	piIzf%pent	1
+pic:
+	6pic	1
+pinAt:
+	6pinAtbAtR	1
+pis:
+	6pis	1
+	6pis6v	2
+	bi6pis6vstek	1
+	h&v6pis6vstekf%brEkf6st	1
+	pis6vmit	4
+pisIz:
+	f%tipisIz	1
+pitR:
+	Iz#frEndpitR	1
+	pitRm&GIk	1
+plEnti:
+	yuvgatplEnti6vt7z	1
+polz:
+	DevgatnufISINpolz	1
+poziz:
+	fUl6vpoziz	1
+prIti:
+	6prItiflQR	1
+prab6li:
+	Deprab6li	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+r&DR:
+	yudr&DR	2
+r&N:
+	r&ND6bEl	1
+r&bIt:
+	6r&bIt	16
+r&gIdi:
+	r&gIdi&ndi	2
+r&t:
+	6r&t	2
+r9d:
+	wir9dInD6strolR	1
+	y)strolRf%6r9d	1
+r9t:
+	D&tsr9t	58
+	D6r9t	2
+	Olr9t	70
+	r9tD*	11
+	r9th(	10
+	tekIN6b&Tr9t	1
+	yur9twIT	1
+	yut3ndr9ttuD6fevrIt	1
+rAn:
+	rAn6rQnd	1
+	rAnQt6v	1
+rEd:
+	6rEdbIb	1
+	s%t6v6rEd	1
+rEk6gn9z:
+	yuSUdrEk6gn9z	1
+	yurEk6gn9z	2
+rEkRd:
+	6rEkRd	2
+rEst:
+	W*IzD6rEst6vy)	1
+	h(zD6rEst6vIt	1
+	rEst6v	2
+	rEstD&t#h(	1
+rIN:
+	6rIN	4
+	D6rIN	7
+	W*zy)rIN	3
+	rIN6rQndD6	1
+	y)rIN	1
+rIb~:
+	6rIb~	2
+rId:
+	rId6vOl	1
+rIp:
+	yum9trIpIt	1
+rIst:
+	W*zy)rIst	1
+rIvR:
+	D6rIvR	1
+rON:
+	D6rONEndDo	1
+	D6rONTIN	1
+rQnd:
+	yugorQnd&ndrQnd	2
+rakIN:
+	6rakIN	1
+	6wUdrakIN	1
+ric:
+	TINkyuk&nric	1
+rid:
+	ANkLm9ktoldmihiridyu6st%i	1
+	rid6	8
+	turid6	1
+	yurid	9
+ridIN:
+	SizridIN	1
+ril:
+	IfwilUkril	1
+rili:
+	g99rili	1
+	gEtINItrili	1
+	hurili	1
+	rilif&st	1
+	yuTrorili	1
+	yurili	1
+roz:
+	6roz	1
+	D*z6roz	1
+	D6roz	1
+rozIz:
+	turozIz	1
+roziz:
+	Diz#roziz	1
+rustR:
+	6rustR	1
+s%i:
+	9ms%i	2
+s%t:
+	6vs6ms%t	1
+	s%t6v	2
+	s%t6v6rEd	1
+	s%t6vfrAstretIN	1
+s&t:
+	s&tan6wOl	1
+	s&tanD6wOl	1
+s(iL:
+	D6fudQt6vD6s(iL	1
+s3:
+	s3Trib&gz	1
+s6m:
+	6vs6ms%t	1
+	D*#s6mm%peGIzwidId~tsi	1
+	D*zs6mcIldr~	1
+	D*zs6mm%	1
+	h&vtupUSD6dOgIns6mm%	1
+	h(zs6mfudf%letR	1
+	s6mADR	5
+	s6mADRt7zh(	2
+	s6mm%6v	1
+	t9s6mboz	1
+s9dz:
+	D6s9dz	1
+sAc:
+	sAclON(z	1
+	y)sAc6n9smIstrIs	1
+sAmTIN:
+	sAmTINEls	12
+	sAmTINdIfr~t	2
+	wantsAmTINEls	3
+sAmbadi:
+	sAmbadiAp	1
+	tusAmbadianD6fon	1
+	yukOlINsAmbadiAp	2
+sEd:
+	wisEdD6l&st	1
+sEk:
+	h&Nan6sEk	1
+sEk~d:
+	wet6sEk~d	1
+sIN:
+	misIN	1
+	sINebi	1
+	sINmi6sON	2
+	yusIN	2
+sIli:
+	6sIli	4
+	hQsIli6vmi	1
+	y)sIli	4
+sIndi:
+	y)nemsIndi	1
+sIt:
+	W*hiwUdsItIfhikem	1
+	hik&nsItany)	1
+	lEtssItAph(	1
+	sItdQn	18
+	tusItanD6wOl	1
+sItIN:
+	#yusItIN	1
+	hANgrisItIN	1
+	sItINanD6h%	1
+	w(sItIN	1
+sO:
+	6kw*iM&ndsOD6muvi	1
+	9nEvRsO	1
+	9sO	3
+	wisO	5
+	yunEvRsO	1
+	yusO	4
+sON:
+	sINmi6sON	2
+sONz:
+	D6sONzanD	1
+sOft:
+	hQsOft	1
+sak:
+	6sakan	1
+	y)sakOf	1
+se:
+	WAtduyuse	3
+	sehElo	19
+seIN:
+	#seIN	2
+	y)seINb9tuD	1
+sem:
+	&tD6sem	1
+	D6bOl#D6sem	1
+	D6sem	2
+	w3kD6semwe	1
+si:
+	9si	33
+	D*#s6mm%peGIzwidId~tsi	1
+	W*dIdwisi6muvi	1
+	duyusi	38
+	ebisidi	1
+	lEtmisi	1
+	lEtssi	27
+	siEniTINanDIspeGyu	1
+	tusi	7
+	yusiD6	4
+	yusih3	1
+sin:
+	yuvnEvRsin	1
+	yuvsin	1
+	~tsinyEt	1
+sit:
+	6sit	1
+siz:
+	D6ebisiz	1
+	Sisizy)pEnsL	1
+	debisiz	1
+	ebisiz	4
+sk9:
+	InD6sk9	1
+skIpt:
+	wiskIpt	1
+	wiskIpt6peG	1
+	wiskIptovR	1
+	yuskIpt	1
+skr&ci:
+	skr&cifes	20
+skubi:
+	y)dOgznemIzskubi	1
+skul:
+	#yulet&tskul	1
+	&zsun&zyugotuskul	1
+	D6skul	1
+	skulInD6m%nIN	1
+sl9d:
+	sl9dItTru	1
+	yuh&vtusl9dItTruD	1
+slip:
+	WEnyuslip	1
+	gotuslip	7
+	wEnttuslip	1
+sliv:
+	y)sliv	1
+slivz:
+	slivzD*	1
+sm#t:
+	y)6nOflism#t	1
+smOl:
+	bitusmOlf%	1
+sn&p:
+	6sn&p	10
+snom&n:
+	6snom&n	4
+so:
+	9msohANgri	10
+	Itsso	2
+	f%6wOkso	1
+	sodIdDiz	1
+	somAch*	2
+	somEni	2
+	somEnit7z	2
+	y)soGEnR6s	1
+soz:
+	sozSi	1
+st#t:
+	st#tD6k#	1
+	st#tfr6m	4
+	yust#tQt	1
+st%:
+	D6st%	4
+st%i:
+	ANkLm9ktoldmihiridyu6st%i	1
+st&k:
+	st&kDEmAp	3
+	yuwan6st&kDEmAp	1
+st&kIN:
+	y)st&kIN	1
+st&nd:
+	st&ndanD&tItm9tbrek	1
+stAk:
+	stAkIn	1
+stAm6k:
+	6vm9stAm6k	1
+stIk:
+	stIkD&tanD*	1
+	stIkItanh(	1
+	stIkItantuD*	1
+stIks:
+	ItstIksanh(	1
+stIl:
+	9stIl	1
+	SizstIl	1
+	stIl6slip	2
+	stIlQt	1
+stUd:
+	yustUdAp	1
+ste:
+	DesteanD6	1
+	steIns	2
+	steh(	2
+	steklozd	1
+	stuste	1
+stek:
+	bi6pis6vstek	1
+	h&v6pis6vstekf%brEkf6st	1
+stez:
+	histez	3
+stim:
+	D6stim	1
+	gatOlstimkAmINOf6vIt	1
+str&p:
+	6str&p	1
+	yustr&pItyugo	1
+strINz:
+	bOlzanstrINz	1
+strONR:
+	gat~strONR	1
+strOb*i:
+	6strOb*i	1
+strit:
+	D6strit	1
+strolR:
+	wir9dInD6strolR	1
+	y)strolRf%6r9d	1
+sun:
+	&zsun&zyugotuskul	1
+suzi:
+	suzih&v6	2
+swEtR:
+	y)swEtR	2
+swINz:
+	D6swINz	1
+swIm:
+	swImInh3lek	1
+t3n:
+	&nizt3n	2
+	D6b7zt3n	4
+	h(t3nItan	1
+	m9t3n	1
+	t3nD6peG	13
+	t3nDIspeGovR	1
+	t3nhImanhIztAmi	1
+t3nd:
+	yut3ndr9ttuD6fevrIt	1
+t3tL:
+	6t3tL	10
+t6m#o:
+	yut6m#o	1
+t7:
+	6t7	10
+t7z:
+	D6t7z	8
+	D6t7zb&k&n	1
+	s6mADRt7zh(	2
+	somEnit7z	2
+	t7z#	1
+	yuvgatplEnti6vt7z	1
+t9:
+	D6we9t9	1
+	SLwit9It	1
+	t9D6b7zSu	1
+	t9s6mboz	1
+t9Rd:
+	#yut9Rd	1
+t9m:
+	Ifyuh&vt9mbItwinfon	1
+tAN:
+	W*zhIztAN	1
+	W*zy)tAN	2
+	hIztAN	16
+	hih&z6bIgtAN	1
+	m9tAN	1
+	yugatm9tAN	1
+tAmbL:
+	k&ntAmbL	1
+tAmi:
+	t3nhImanhIztAmi	1
+tEl:
+	9ltElyu	1
+	tElmi	16
+tIks:
+	D6klaktIksan	1
+tOk:
+	hik&ntOkOl	1
+	hiltOk	1
+	tOkInh(	1
+	tOkanD6	3
+	tOktu	15
+	y)g6n6tOk	2
+	yuTINkhik6dtOkIntu	1
+	yug6n6tOkanD6	1
+tOkIN:
+	y)tOkINtuanD6fon	1
+	yutOkINanD6fon	1
+tOkt:
+	yuvtOkt	1
+tQR:
+	6tQR	13
+	6tQRanD	1
+tUk:
+	9tUkIt	1
+	D6leditUkIt	1
+	hutUkAstuEm9ti	1
+	hutUkm9	1
+	yutUky)	1
+tap:
+	D6tap	3
+	antap	24
+	yuwan6pUtanD6tap	1
+tebL:
+	D6tebLkAmz	1
+	wOkINanD6tebL	1
+	wOkanD6tebL	2
+	y)tebL	1
+tek:
+	9TOtyuw3goINtutekhIzklozOf	1
+	WEnyutek	1
+	g6n6tekD6dOgQt	1
+	tek6bIgbot	1
+	tekD6dOgQt	1
+	tekD6dOgiQt	2
+	tekDEmOf	1
+	tekIt	2
+	tekItOfhIzSoldRz	1
+	tekItQt	4
+	tekOfhIzSoldRz	1
+	tekOfm9	2
+	y)tekD6dOgQt6vD6hQs	1
+	y)tr9INtutekhIzklozOf	1
+	yuwonttekItOf	1
+tekIN:
+	D6b7ztekIN6b&T	1
+	tekIN6b&T	1
+	tekIN6b&Tr9t	1
+tel:
+	D6telanD6k9t	1
+	W*zhIztel	1
+tep:
+	D6tep	2
+	zh3tep	1
+ti:
+	6ti	2
+	Sizh&vINti	2
+	tif%	1
+tiT:
+	ztiT	1
+tiz:
+	6vtiz	1
+to:
+	y)to	1
+told:
+	ANkLm9ktoldmihiridyu6st%i	1
+tost:
+	hIztost	1
+tr9:
+	tr9It	4
+	yuwan6tr9It	1
+tr9IN:
+	y)tr9INtutekhIzklozOf	1
+trANk:
+	6trANk	1
+trAbL:
+	m9tbih&vINtrAbL	1
+trAk:
+	6trAk	5
+trIp:
+	trIpanhIz	1
+tri:
+	D6tri	1
+tu:
+	&zsun&zyugotuskul	1
+	9TOtyuw3goINtutekhIzklozOf	1
+	9h&vtulIftD6mit	1
+	D*#tumEni	1
+	D6b7ztuhEvi	1
+	WEnwigotuD6bic	1
+	bitusmOlf%	1
+	dIfr~stuyu	1
+	gotuslip	7
+	h&vtupUSD6dOgIns6mm%	1
+	h9tumAm	3
+	hQstu	1
+	hutUkAstuEm9ti	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	kAmtu#	1
+	mitu	5
+	stuhEvi	1
+	stumi	1
+	stuste	1
+	tOktu	15
+	tuD6dOgi	3
+	tuEnibadi	2
+	tuTriz	1
+	tub9t	2
+	tuduwITD&t	1
+	tugoQtD6frAntwe	1
+	tuit	19
+	tukAt	2
+	tukIdz	1
+	tulIs~	1
+	turid6	1
+	turozIz	1
+	tusAmbadianD6fon	1
+	tusItanD6wOl	1
+	tusi	7
+	wEnttuslip	1
+	wantmitu	20
+	wantstu	9
+	wantstugo	1
+	wanttu	15
+	wilIs~tu&thom	1
+	y)seINb9tuD	1
+	y)tOkINtuanD6fon	1
+	y)tr9INtutekhIzklozOf	1
+	yuh&vtuAnzIp	1
+	yuh&vtugo	1
+	yuh&vtupUtItTruD	1
+	yuh&vtusl9dItTruD	1
+	yut3ndr9ttuD6fevrIt	1
+	yuvl3ndtuzIpletli	1
+	ztupUS	1
+v&kyum:
+	6v&kyum	2
+	D*z#v&kyumklinR9noyu	1
+v&l~t9n:
+	6v&l~t9n&zInvi	1
+v7s:
+	m9v7sIz	1
+vIni:
+	&zInvIni	1
+vRGIny6:
+	oldvRGIny6	1
+vekeS~:
+	goanvekeS~	1
+vi:
+	6v&l~t9n&zInvi	1
+	6vi	1
+w(:
+	w(OldAn	2
+	w(sItIN	1
+w*IN:
+	#yuw*IN	1
+	w*INanhIzfit	2
+w3:
+	9TOtyuw3goINtutekhIzklozOf	1
+	9wISItw36	1
+	yuw3	3
+w3dz:
+	Diz#w3dz	1
+w3k:
+	6w3kQt	1
+	minzw3kgEtINdrEst	1
+	w3kD6semwe	1
+	w3kIz~tIt	1
+w9:
+	w9zi	1
+wAn:
+	wAn6we	1
+wAndR:
+	9wAndR	4
+wAz:
+	D*wAzm%	1
+	yunIk%nwAz	1
+wEl:
+	wEl9	1
+wElkM:
+	y)wElkM	2
+wEnt:
+	wEnttuslip	1
+wIS:
+	9wISItw36	1
+wIT:
+	duwIT	15
+	duwITDIs	1
+	tuduwITD&t	1
+	wITD6	19
+	wITnofes	1
+	y)dAnwIT	5
+	yudAnwIT	1
+	yur9twIT	1
+wIl:
+	m9kwIlbrek	1
+	mamwIlbrIN	1
+wOk:
+	WEnhigozf%6wOk	1
+	f%6wOk	3
+	f%6wOkanD6	1
+	f%6wOkso	1
+	gof%6wOk	5
+	wOkanD6tebL	2
+	wOkovR	1
+	wOkwOk	2
+	wOkwOkwOk	3
+wOkIN:
+	D*wOkIN	1
+	wOkINanD6tebL	1
+wOl:
+	6wOl	1
+	s&tan6wOl	1
+	s&tanD6wOl	1
+	tusItanD6wOl	1
+wOtR:
+	D6wOtR	1
+wUd:
+	6wUdrakIN	1
+	9dId~tTINkItwUd	1
+	W*hiwUdsItIfhikem	1
+	b7wUd	1
+	wUdyu	61
+wac:
+	wacQtD*g6n6fOlovR	1
+wan6:
+	wan6kAmQt	2
+	yuwan6kloz	2
+	yuwan6pUtItb&kInD6baks	1
+	yuwan6pUtanD6tap	1
+	yuwan6st&kDEmAp	1
+	yuwan6tr9It	1
+want:
+	9want	20
+	duyuwant	43
+	wantD6dal	1
+	wantmitu	20
+	wantsAmTINEls	3
+	wanttu	15
+	yuwant	44
+	yuwantD6	16
+wants:
+	wantstu	9
+	wantstugo	1
+we:
+	D6we9t9	1
+	IzD6wehigoz	1
+	WIcwe	1
+	hik&ntkAmOlD6weQt	2
+	m%nINanD6we	1
+	m%nINanD6weh(	1
+	tugoQtD6frAntwe	1
+	w3kD6semwe	1
+	weAp	4
+	y)we	1
+weg~:
+	dAbLyuIzf%weg~	1
+weks:
+	WEnhiweksAp	1
+wet:
+	wet6	12
+	wet6sEk~d	1
+	wetgr&b	1
+	wetwimIst6peG	1
+wevIN:
+	D*wevIN	2
+wi:
+	#wi	2
+	D*#s6mm%peGIzwidId~tsi	1
+	D*wi#	1
+	D*wigo	5
+	IfwilUkril	1
+	SLwi	7
+	SLwifInIS	1
+	SLwipUthIz#mz	1
+	SLwit9It	1
+	W*dIdwisi6muvi	1
+	W9dontwi	1
+	WEnwigo	1
+	WEnwigotuD6bic	1
+	b&dwi	1
+	duwi	7
+	h(wigo	6
+	hapskachapskacwi	1
+	k&nwiholdIt	1
+	k6dIfwih&d	1
+	k6dwiyuzf%6d9pR	1
+	wetwimIst6peG	1
+	widIdDEmOl	1
+	wigat	5
+	wih&v	17
+	wih&vOl6v	1
+	wik&n	3
+	wik&ndu	1
+	wik&nf9nd	5
+	wik6d	1
+	wik6dmek6brIG	1
+	wiklozd	1
+	wilIs~tu&thom	1
+	wimAs~t	1
+	wimIstEf	1
+	wir9dInD6strolR	1
+	wisEdD6l&st	1
+	wisO	5
+	wiskIpt	1
+	wiskIpt6peG	1
+	wiskIptovR	1
+wil:
+	wilpUtItb&kovRh(	1
+	y)dAkIzInD6k#wil	1
+wiv:
+	wivgat	2
+wont:
+	yuwont	1
+	yuwonttekItOf	1
+wuwu:
+	D6wuwum9	1
+y):
+	&zy)S3t	1
+	9lity)lEg	1
+	9vgaty)	1
+	Sisizy)pEnsL	1
+	W*#y)	1
+	W*IzD6rEst6vy)	1
+	W*y)	1
+	W*zy)TAm	1
+	W*zy)rIN	3
+	W*zy)rIst	1
+	W*zy)tAN	2
+	WEny)dAn	1
+	any)hEd	2
+	brASy)h*	4
+	cenGy)d9pR	2
+	dIfr~tfr6my)	1
+	drINkApy)	3
+	fIksy)TAm	1
+	fidy)	1
+	fr6my)c*	1
+	h&dy)brEkf6st	1
+	hik&nsItany)	1
+	k6d~tpas6blibibIkAzy)mADRzh&d6fon6t&cttuh3(f%6mAnT	1
+	k9nd6vbIgf%y)h&ndz#ntDe	1
+	komy)h*	1
+	pUty)fINgRInD6hol	2
+	tItApIny)	1
+	y)#m	1
+	y)6nOflism#t	1
+	y)GAstg6n6it	1
+	y)OldAn	1
+	y)SoIN	1
+	y)Su	1
+	y)SuovR	1
+	y)TAm	1
+	y)b3Tde	6
+	y)bEdrum	1
+	y)bEdsprEd	1
+	y)bUk&t	1
+	y)bebizh*	2
+	y)brADR	2
+	y)ciks	2
+	y)dAkIzInD6k#wil	1
+	y)dAnwIT	5
+	y)dOgznemIzskubi	1
+	y)dali	1
+	y)dalz&thom	1
+	y)drAmInD6p6red	1
+	y)drAmz&t	1
+	y)drEs	1
+	y)duIN	4
+	y)fINgR	13
+	y)fUt	4
+	y)fevrIt	9
+	y)fit	1
+	y)fon&t	1
+	y)frEndz	3
+	y)g6n6	23
+	y)g6n6pUt	5
+	y)g6n6pUtD6dOg	1
+	y)g6n6tOk	2
+	y)gEtIN	1
+	y)h&nd	36
+	y)h*	3
+	y)klinIN	1
+	y)kom	3
+	y)l&st	2
+	y)lEg	1
+	y)lUkINf%D	1
+	y)mANki	2
+	y)mIt~	1
+	y)mekIN	2
+	y)nat&tOlIntr6stIdIn	1
+	y)nem	24
+	y)nemsIndi	1
+	y)noz	11
+	y)on	1
+	y)p)old	1
+	y)rIN	2
+	y)s	1
+	y)sAc6n9smIstrIs	1
+	y)sIli	4
+	y)sakOf	1
+	y)seINb9tuD	1
+	y)sliv	1
+	y)soGEnR6s	1
+	y)st&kIN	1
+	y)strolRf%6r9d	1
+	y)swEtR	2
+	y)t	1
+	y)tOkINtuanD6fon	1
+	y)tebL	1
+	y)tek	1
+	y)tekD6dOgQt6vD6hQs	1
+	y)to	1
+	y)tr9INtutekhIzklozOf	1
+	y)wElkM	2
+	y)we	1
+	yudrapty)	1
+	yukomy)h*	2
+	yupUty)fINgR	5
+	yutUky)	1
+	yuy)m9	1
+yEt:
+	~tsinyEt	1
+yu:
+	#yu	50
+	#yuS3	1
+	#yuduIN	20
+	#yukIs	1
+	#yukr9IN	2
+	#yulet&tskul	1
+	#yusItIN	1
+	#yut9Rd	1
+	#yuw*IN	1
+	%yu	1
+	&ndyu	1
+	&zsun&zyugotuskul	1
+	6vyu	1
+	9TOtyuw3goINtutekhIzklozOf	1
+	9lAvhQyuholdD6fon	1
+	9lAvyu	2
+	9ltElyu	1
+	9noyuhetIt	1
+	ANkLm9ktoldmihiridyu6st%i	1
+	D*yu#	2
+	D*yugo	17
+	D*z#v&kyumklinR9noyu	1
+	GEnR6s6vyu	1
+	IfyuSUditIthAni	1
+	Ifyuh&vt9mbItwinfon	1
+	T&Nkyu	64
+	TINkyu	2
+	TINkyuk&nric	1
+	W*#yu	5
+	W*#yug6n6go	1
+	W*yu	3
+	WAt#yug6n6du	8
+	WAtduyuse	3
+	WEnyuslip	1
+	WEnyutek	1
+	bEtRD&n9k&nSoyu	1
+	brINyuInD6keG	1
+	dIdyu	47
+	dIdyuh&v6	1
+	dIdyunakDEmovR	1
+	dIfr~stuyu	1
+	duyu	131
+	duyuTINk	14
+	duyuTINkIts	1
+	duyusi	38
+	duyuwant	43
+	f%yu	14
+	hQ#yu	11
+	hu#yu	10
+	hu#yukOlIN	1
+	k&nyu	203
+	k6dyu	4
+	lEtINyuQt	1
+	lIkyu	3
+	pepRpeGIzyum9t	1
+	siEniTINanDIspeGyu	1
+	wUdyu	61
+	yu#	6
+	yuEni	1
+	yuIzf%AmbrEl6	1
+	yuSUdrEk6gn9z	1
+	yuSomi	1
+	yuTINkhik6dtOkIntu	1
+	yuTOtyuh&dTron	2
+	yuTrorili	1
+	yudAnwIT	1
+	yudId	17
+	yudr9vD6k#	1
+	yudrapty)	1
+	yudu	14
+	yuf9nd	1
+	yufQndIt	1
+	yug6n6tOkanD6	1
+	yugEt	2
+	yugat	10
+	yugatIt	1
+	yugatm9noz	1
+	yugatm9tAN	1
+	yugatyugatyu	3
+	yugo	1
+	yugorQnd&ndrQnd	1
+	yuh&d	4
+	yuh&vtuAnzIp	1
+	yuh&vtugo	1
+	yuh&vtupUtItTruD	1
+	yuh&vtusl9dItTruD	1
+	yuhANgri	1
+	yuit	3
+	yuitIt	2
+	yuk&n	70
+	yuk&nt	6
+	yuk6d	3
+	yukOlINsAmbadiAp	2
+	yukOt	1
+	yukQnt	6
+	yuklozd	3
+	yukomy)h*	2
+	yul9k	36
+	yul9kD6	7
+	yulIft	3
+	yulUk&tIt	1
+	yulUkINf%D	1
+	yuletR	7
+	yuliv	2
+	yum9tbi	1
+	yum9th3t	1
+	yum9trIpIt	1
+	yumIst	1
+	yumIstD6baks	1
+	yume	1
+	yumed	1
+	yumed6	4
+	yumedf%mAmil&st	1
+	yumin	2
+	yunEvRsO	1
+	yunakItovR	1
+	yunaktDEmovR	3
+	yunaktItovR	3
+	yuni	1
+	yup&tmianD6noz	1
+	yupIkItQt	1
+	yupUty)fINgR	5
+	yur9twIT	1
+	yurEk6gn9z	2
+	yurid	9
+	yurili	1
+	yusIN	2
+	yusO	4
+	yusiD6	4
+	yusih3	1
+	yuskIpt	1
+	yust#tQt	1
+	yustUdAp	1
+	yustr&pItyugo	2
+	yut3ndr9ttuD6fevrIt	1
+	yut6m#o	1
+	yutOkINanD6fon	1
+	yutUky)	1
+	yuw3	3
+	yuwan6kloz	2
+	yuwan6pUtItb&kInD6baks	1
+	yuwan6pUtanD6tap	1
+	yuwan6st&kDEmAp	1
+	yuwan6tr9It	1
+	yuwant	45
+	yuwantD6	16
+	yuwont	1
+	yuwonttekItOf	1
+	yuy)m9	1
+	yuyuZw6lih&v6s	1
+yuZw6li:
+	yuyuZw6lih&v6s	1
+yud:
+	yuditIt	1
+	yudr&DR	2
+yunIk%n:
+	yunIk%nwAz	1
+yuv:
+	yuvOl	1
+	yuvdIs	1
+	yuvgat	2
+	yuvgatplEnti6vt7z	1
+	yuvh&dk*6ts	1
+	yuvit~	1
+	yuvl3ndtuzIpletli	1
+	yuvnEvRsin	1
+	yuvsin	1
+	yuvtOkt	1
+yuz:
+	k6dwiyuzf%6d9pR	1
+	yuzD6fon	1
+zIp:
+	6zIp	1
+	SUdzIphIzp&ntsApprab6liD*Itgoz	1
+	hQz6bQthIzzIp	1
+	yuvl3ndtuzIpletli	1
+	zIpD6	2
+	zIpItAp	10
+zIpIN:
+	D6zif%zIpIN	1
+	zif%zIpIN	1
+zi:
+	6zi	1
+	D6zif%zIpIN	1
+	w9zi	1
+	zif%zIpIN	1
+zibr6:
+	6zibr6	5
+zu:
+	&tD6zu	2
+	D6zu	2
+
+Oversegmented words
+------------------
+&n6mLz:
+	&n6mL z	2
+&niz:
+	&ni z	2
+*plen:
+	* ple n	1
+6klak:
+	6 klak	1
+6slip:
+	6 slip	7
+AndRst&nd:
+	AndRst &nd	1
+Andu:
+	An du	1
+Anlak:
+	An lak	1
+Ansn&p:
+	An sn&p	1
+AnzIp:
+	An zIp	2
+AnzIpt:
+	An zIpt	2
+Enibadi:
+	Eni badi	1
+GEfriz:
+	GEfri z	1
+Gudiz:
+	Gudi z	8
+Ins9d:
+	In s 9d	20
+InstEd:
+	In stEd	1
+Intu:
+	In tu	2
+Iz6bL:
+	Iz 6bL	1
+Olmost:
+	Ol most	3
+OlrEdi:
+	Ol rEdi	1
+Olwez:
+	Ol we z	1
+QtlEts:
+	Qt lEts	1
+Qts9d:
+	Qt s 9d	3
+SevIN:
+	Sev IN	2
+SulesIz:
+	Sules Iz	4
+TroIN:
+	Tro IN	2
+WAtEvR:
+	WAt EvR	4
+b3dz:
+	b3d z	3
+b6lunz:
+	b6lun z	21
+bAniz:
+	bAni z	13
+bAtRfl9z:
+	bAtRfl9 z	12
+bAt~z:
+	bAt~ z	10
+bIgInIN:
+	bIg In IN	4
+bIgInz:
+	bIg In z	1
+bIldIN:
+	bIld IN	2
+bIldINz:
+	bIld IN z	1
+bIs9dz:
+	bIs 9d z	1
+bOlz:
+	bOl z	1
+bUks:
+	bUk s	22
+bebiz:
+	bebi z	5
+besbOl:
+	bes bOl	1
+blaks:
+	blak s	64
+brASIN:
+	brAS IN	2
+brININ:
+	brIN IN	1
+d&d&z:
+	d&d& z	2
+d&diz:
+	d&di z	17
+dInRt9m:
+	dInR t9m	1
+dOgiz:
+	dOgi z	11
+dali:
+	dal i	5
+dalz:
+	dal z	1
+dr&g~z:
+	dr&g~ z	5
+duIN:
+	du IN	45
+f9ndIN:
+	f9nd IN	2
+fRgEt:
+	fR gEt	2
+fUts:
+	fUt s	1
+fidIN:
+	fid IN	1
+filIN:
+	fil IN	1
+filz:
+	fil z	3
+fonz:
+	fon z	2
+frEndli:
+	frEnd li	3
+g3lz:
+	g3l z	2
+gEtIN:
+	gEt IN	5
+gEts:
+	gEt s	1
+gUdnIs:
+	gUd nIs	6
+gelz:
+	gel z	2
+h&NIN:
+	h&N IN	1
+h&ndz:
+	h&nd z	4
+h&vIN:
+	h&v IN	4
+h9c*:
+	h9 c*	1
+h9dIN:
+	h9 dIN	4
+hANgriR:
+	hANgri R	1
+hImsElf:
+	hIm sElf	1
+hQz:
+	hQ z	2
+holdz:
+	hold z	1
+kAlRz:
+	kAlR z	20
+kAmIN:
+	kAm IN	5
+kAmz:
+	kAm z	2
+kItiz:
+	kIti z	19
+kOlIN:
+	kOl IN	7
+kOld:
+	kOl d	1
+kOlz:
+	kOl z	1
+kQz:
+	kQ z	3
+kez:
+	ke z	6
+komIN:
+	kom IN	2
+kreanz:
+	krean z	16
+kwIkli:
+	kwIk li	3
+l9ks:
+	l9k s	4
+l9~z:
+	l9~ z	1
+lEtRz:
+	lEtR z	2
+lIftIN:
+	lIft IN	1
+lIvz:
+	lIv z	6
+lUkIN:
+	lUk IN	7
+lUks:
+	lUk s	23
+lUkt:
+	lUk t	1
+lin6z:
+	lin6 z	1
+m#koz:
+	m#ko z	1
+m6riz:
+	m6ri z	1
+m9sElf:
+	m9 sElf	1
+mamiz:
+	mami z	32
+mekIN:
+	mek IN	2
+milt9m:
+	mil t9m	1
+mimi:
+	mi mi	7
+muvIN:
+	muv IN	1
+n&nz:
+	n&n z	1
+n(b9:
+	n( b9	1
+n9sR:
+	n9s R	1
+nidz:
+	nid z	1
+nobadi:
+	no badi	2
+nop:
+	no p	5
+noz:
+	no z	11
+op~d:
+	op~ d	1
+op~z:
+	op~ z	4
+p#ti:
+	p#t i	4
+p9lz:
+	p9l z	2
+pApiz:
+	pApi z	3
+pOl:
+	p Ol	1
+pUSIN:
+	pUS IN	1
+pUtIN:
+	pUt IN	5
+pUts:
+	pUt s	1
+pakItbUk:
+	pakIt bUk	6
+pleIN:
+	ple IN	13
+pled:
+	ple d	1
+plez:
+	ple z	1
+r&bIts:
+	r&bIt s	1
+rININ:
+	rIN IN	10
+rImEmbRd:
+	rImEmbR d	1
+s&ndLz:
+	s &nd Lz	1
+s&ndwIc:
+	s &nd wIc	5
+s9d:
+	s 9d	2
+sAmW*:
+	sAm W*	1
+sAmbadi:
+	sAm badi	4
+sAmt9mz:
+	sAm t9m z	3
+sIN:
+	s IN	5
+sIndiz:
+	sIndi z	2
+sItIN:
+	sIt IN	2
+seIN:
+	se IN	13
+skr&cIN:
+	skr&c IN	1
+skr&ci:
+	skr&c i	3
+skw3Lz:
+	skw3L z	1
+slips:
+	slip s	1
+smElIN:
+	smEl IN	2
+smElz:
+	smEl z	2
+sno:
+	s no	1
+st&kt:
+	st&k t	1
+st&nd:
+	st &nd	2
+st&ndIN:
+	st &nd IN	1
+stIks:
+	stIk s	1
+steks:
+	stek s	1
+swININ:
+	swIN IN	1
+swith#t:
+	swit h#t	3
+t6dez:
+	t6de z	1
+t9mz:
+	t9m z	1
+tEl6fonz:
+	tEl6fon z	5
+tQRz:
+	tQR z	2
+tekIN:
+	tek IN	1
+tests:
+	test s	1
+tr9IN:
+	tr9 IN	5
+tr9sIkL:
+	tr9 sIkL	1
+trenz:
+	tren z	1
+tulIp:
+	tu lIp	1
+w*IN:
+	w* IN	1
+w3dz:
+	w3d z	3
+w3ks:
+	w3k s	1
+wAndRfL:
+	wAn dRfL	2
+wAnz:
+	wAn z	14
+wantId:
+	want Id	1
+wants:
+	want s	10
+y)sElf:
+	y) sElf	3
+yEstRde:
+	yEs tRde	8
+yuz:
+	yu z	2
+yuzIz:
+	yu z Iz	3
+z9l6fon:
+	z 9l 6fon	1
+zIpRz:
+	zIpR z	1
+
+Words with both types of errors
+------------------
+#nt:
+	Doz# ntb3diz	1
+	Doz# ntkeks	1
+(z:
+	hIz( z	6
+6n:
+	DIsIz6 nEf	1
+ADRz:
+	D6ADR z	1
+AnbAt~:
+	k&nItAn bAt~	1
+AndRst&nd:
+	AndRst &ndyu	1
+AnzIpt:
+	ItIzAn zIpt	1
+D&t:
+	AnduD &t	1
+D&ts:
+	D&t sOl6v	3
+D6:
+	6tQRanD 6brIG	1
+	AnduD 6sn&p	2
+	D 6b3d	3
+	D 6dAk	1
+	D 6dOg	21
+	D 6dal	2
+	D 6flQR	1
+	D 6fon	1
+	D 6hol	6
+	D 6k&t	1
+	D 6kIti	3
+	D 6kQ	6
+	D 6l9~	1
+	D 6lEtR	1
+	D 6mQs	3
+	D 6mQsi	1
+	D 6n9skIs	1
+	D 6pApIt	1
+	D 6pApi	1
+	D 6pIg	1
+	D 6r&bIt	4
+	D 6sn&p	5
+	D 6t3tL	5
+	D 6trAk	1
+	D*zD 6dOg	2
+	D*zD 6r&bIt	2
+	D6sONzanD 6rEkRd	1
+	INf%D 6r&bIt	1
+	W*zD 6	19
+	W*zD 6b6lun	1
+	W*zD 6bOl	1
+	W*zD 6dAk	3
+	W*zD 6dOg	9
+	W*zD 6dal	1
+	W*zD 6k&t	2
+	W*zD 6kIti	2
+	W*zD 6kIt~	1
+	W*zD 6r&bIt	1
+	W*zD 6t3tL	1
+	klinzD 6t3tL	1
+	y)lUkINf%D 6r&bIt	1
+	y)seINb9tuD 6dOg	1
+	yuh&vtupUtItTruD 6hol	1
+	yuh&vtusl9dItTruD 6hol	1
+	yulUkINf%D 6r&bIt	1
+GAmpIN:
+	GAmp INovR	5
+GAmpt:
+	GAmp tovR	1
+Ge:
+	G eIzf%	1
+Gudiz:
+	Gudi zp&tINh3	1
+Ins9d:
+	D6liSgozIns 9d	1
+	steIns 9d	2
+OlrEdi:
+	D6bolOl rEdi	1
+	yuvOl rEdi	1
+SulesIz:
+	DozhIzSules Iz	1
+WAts:
+	WAt s6m	1
+	WAt sEmf%	2
+	WAt sanD*	1
+	WAt sanD6fUt	1
+	WAt sovRD*	3
+	WAt sovRh(	4
+b3di:
+	6b3d i	2
+b7z:
+	D6lItLb7 zh*	1
+bAniz:
+	bAni zOf~	1
+bAt~z:
+	bAt~ ztupUS	1
+bUks:
+	D6bUk s	1
+	lUk&tD6bUk s	1
+bebiz:
+	D6bebi z	5
+blaks:
+	blak s#h(	1
+	blak sIt	1
+	blak sfElovR	1
+	blak stuhEvi	1
+brASIN:
+	brAS IND6	1
+	brAS INIz~tIt	1
+d%z:
+	D6d% zovRh(	1
+d&d&z:
+	d&d& zan	1
+d&diz:
+	d&di zfes	1
+d&nz:
+	d&pRd&n zh*	1
+d9pRz:
+	cenGy)d9pR z	1
+dAki:
+	6dAk i	1
+dAmptiz:
+	hAmptidAmpti z	1
+dIs9dId:
+	yuvdIs 9dId	1
+dOgiz:
+	&nd6dOgi z	1
+	6dOgi z	1
+	D6dOgi z	11
+	D6dOgi z(	1
+	D6dOgi zan	1
+	D6dOgi zh*	6
+	W*zD6dOgi z	2
+	W*zD6dOgi z(	1
+dOgz:
+	6dOg zfes	4
+dalfIn:
+	6dal fIn	1
+dali:
+	6dal i	3
+daliz:
+	D6dali zh*	1
+	dal i zh*	2
+dr&g~z:
+	dr&g~ zh*	1
+	dr&g~ zhANgri	1
+	dr&g~ zmQT	1
+fINgRz:
+	hIzfINgR z	1
+	y)fINgR z	1
+fItsp&trIks:
+	&tmIsIzf Its p&trIk s	1
+fevrIts:
+	y)fevrIt s	1
+filz:
+	fil zfAni	2
+gat~:
+	wivgat ~	1
+gr&b:
+	g r&bIt	1
+h%si:
+	6h% si	5
+	sItINanD6h% si	1
+h%siz:
+	6h% si z	1
+h&ndz:
+	hIzh&nd z	1
+	hIzh&nd zan	1
+h&v~t:
+	wih&v ~tsinyEt	1
+h*brAS:
+	6h* brAS	2
+h9dIN:
+	h9 dINbIh9nd	1
+holdIN:
+	hold IND6	1
+	hold INh&ndz	2
+k#:
+	k #kiz	1
+k&nt:
+	yuk&n t	1
+kAlRz:
+	kAlR z6vD6	1
+	kAlR zD&tEg	2
+	kAlR zan	1
+kIsIN:
+	#yukIs IND6	1
+kItiz:
+	6kIti z	3
+kOld:
+	kOl debisiz	1
+kQz:
+	6kQ z	1
+ke:
+	k eIzf%	4
+kez:
+	ke zh*	4
+komIN:
+	y)kom IN	1
+l9ks:
+	l9k stuste	1
+l9kt:
+	l9k tD&t	1
+lEtRz:
+	lEtR z#	1
+lIvz:
+	lIv zan	1
+lUkIN:
+	lUk IN&t	2
+	lUk IN&tD6	1
+	lUk INf%	4
+	lUk INf%D	1
+lUks:
+	lUk s6	1
+	lUk s6lItLbIt	1
+	lUk stumi	1
+lUkt:
+	lUk tItApIny)	1
+	lUk tl9kanD6m&sp9k	1
+lin6:
+	lAvli n6	1
+lin6z:
+	lin6 zh*	1
+m&tR:
+	s6m &tR	1
+m6riz:
+	m6ri zh*	1
+m9sElf:
+	D6wuwum9 sElf	1
+mANkiz:
+	mANki zh*	1
+mIkiz:
+	mIki zan	2
+mamiz:
+	mami zgat6m9kan	1
+	mami zh*	7
+mekIN:
+	mek IND6	1
+nidId:
+	yuni dId	1
+nobadiz:
+	no badizD*	1
+op~IN:
+	op~ IND6d%	2
+p&tIN:
+	p&t IND6	2
+pUtIN:
+	pUt INInhQs	1
+	pUt INdOgInD6hQs	1
+pUts:
+	pUt sIt	1
+peGIz:
+	t3nD6peG Iz	1
+pleIN:
+	ple INInD6s	1
+ples:
+	ple sf%	1
+rININ:
+	y)rIN IND6	1
+rozIz:
+	D6roz Iz	1
+s%t:
+	WAts %t	1
+s&ndwIc:
+	GElos &nd wIc	1
+	y)s &nd wIc	1
+	yuyuZw6lih&v6s &nd wIc	1
+s9d:
+	D6s 9d	1
+	ovRD6s 9d	1
+skr&ci:
+	skr&c ib(d	1
+smElIN:
+	smEl IND6	4
+sno:
+	INInD6s no	1
+snobloR:
+	6s no bloR	1
+snoz:
+	Its no z	1
+t&t&z:
+	t&t& zh*	2
+t3tLz:
+	6t3tL z	2
+	6t3tL ztiT	1
+t9z:
+	t9 zan	1
+tANz:
+	hIztAN z	1
+tekIN:
+	y)tek IND6	1
+teks:
+	tek sIt	1
+trIki:
+	y)t rIki	1
+v96lIn:
+	6v 9 6lIn	2
+wAnz:
+	wAn zhEvi	1
+wan6:
+	wan 6kIs	1
+wantId:
+	yuwant Id	1
+wek:
+	we kAp	1
+y)sElf:
+	fidy) sElf	1
+yuz:
+	k&nyu zh3tep	1
+z9l6fon:
+	EksIzf%z9l 6fon	1
